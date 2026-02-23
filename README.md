@@ -380,6 +380,20 @@ GET    /api/ai/risk-score/:userId   # Get AI risk score
 
 ---
 
+## 👥 Team
+
+<div align="center">
+
+| Role | Name | GitHub |
+|---|---|---|
+| 👑 **Team Leader** | Anushka Pareek | [![GitHub](https://img.shields.io/badge/GitHub-anushkapareek-black?style=flat-square&logo=github)](https://github.com/anushkapareek) |
+| 💻 **Developer** | Akshat Singh Tomar | [![GitHub](https://img.shields.io/badge/GitHub-akshat440-black?style=flat-square&logo=github)](https://github.com/akshat440) |
+| 🎨 **Developer** | Vidhi Luniya | [![GitHub](https://img.shields.io/badge/GitHub-vidhiluniya-black?style=flat-square&logo=github)](https://github.com/vidhiluniya) |
+
+</div>
+
+---
+
 ## 🤝 Contributing
 
 This project was built for a hackathon. Feel free to fork and extend!
