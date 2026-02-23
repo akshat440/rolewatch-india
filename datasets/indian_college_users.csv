@@ -1,0 +1,201 @@
+user_id,email,first_name,last_name,phone,department,role,employee_code,university,campus_location,ugc_net_qualified,phd,aicte_approved,naac_grading,courses_taught,join_date
+EDU0001,divya.jain@rediffmail.com,Divya,Jain,+91 9313862505,Management,Professor,FAC2339,Deemed University,Delhi,False,True,False,A,4,2022-09-30T18:49:06.829960
+EDU0002,priya.menon@iit.ac.in,Priya,Menon,+91 9884760461,Electrical,Admin Staff,FAC8067,IIIT,Pune,True,False,False,A,2,2016-01-26T18:49:06.829965
+EDU0003,meera.gupta@outlook.com,Meera,Gupta,+91 9334303095,Management,Admin Staff,FAC7422,IIIT,Indore,True,True,True,A++,2,2017-03-21T18:49:06.829970
+EDU0004,meera.pillai@iit.ac.in,Meera,Pillai,+91 9381251667,Science,HOD,FAC6123,Deemed University,Delhi,True,True,True,A+,5,2022-06-30T18:49:06.829974
+EDU0005,rohan.reddy@outlook.com,Rohan,Reddy,+91 9217024220,Computer Science,Lecturer,FAC6465,Private University,Bangalore,False,False,False,A,5,2014-04-28T18:49:06.829978
+EDU0006,shreya.nair@yahoo.in,Shreya,Nair,+91 9479558385,Arts,HOD,FAC6370,Deemed University,Hyderabad,True,False,True,B++,4,2015-06-22T18:49:06.829982
+EDU0007,kavya.chopra@university.ac.in,Kavya,Chopra,+91 9374106992,Computer Science,Professor,FAC9052,Private University,Nagpur,False,True,False,A,4,2015-07-25T18:49:06.829986
+EDU0008,arjun.iyer@gmail.com,Arjun,Iyer,+91 9512568459,Computer Science,HOD,FAC9715,IIIT,Delhi,True,False,False,A+,1,2023-06-05T18:49:06.829990
+EDU0009,tanvi.naidu@university.ac.in,Tanvi,Naidu,+91 9296909009,Commerce,Admin Staff,FAC7047,NIT,Bangalore,False,True,True,A+,4,2023-06-28T18:49:06.829995
+EDU0010,rahul.joshi@hotmail.com,Rahul,Joshi,+91 9035923357,Computer Science,Lecturer,FAC8330,IIT,Pune,True,True,False,A+,2,2024-01-03T18:49:06.829999
+EDU0011,rajesh.naidu@outlook.com,Rajesh,Naidu,+91 9285856917,Management,Professor,FAC2419,IIT,Lucknow,False,False,True,B++,3,2018-07-08T18:49:06.830003
+EDU0012,nikhil.malhotra@yahoo.in,Nikhil,Malhotra,+91 9288084722,Computer Science,Teaching Assistant,FAC3895,IIIT,Ahmedabad,True,True,False,A+,2,2020-06-19T18:49:06.830007
+EDU0013,gaurav.verma@yahoo.in,Gaurav,Verma,+91 9581790516,Science,Teaching Assistant,FAC4533,IIT,Coimbatore,True,False,True,A+,2,2022-10-27T18:49:06.830011
+EDU0014,pooja.reddy@hotmail.com,Pooja,Reddy,+91 9743696612,Mechanical,Admin Staff,FAC7845,Private University,Indore,True,True,False,A++,4,2013-12-28T18:49:06.830014
+EDU0015,karan.jain@yahoo.in,Karan,Jain,+91 9552969793,Civil,HOD,FAC5745,Deemed University,Indore,True,True,False,B++,2,2015-01-12T18:49:06.830018
+EDU0016,simran.rao@university.ac.in,Simran,Rao,+91 9152816793,Arts,Associate Professor,FAC4502,IIT,Delhi,False,True,True,B+,5,2015-07-30T18:49:06.830021
+EDU0017,ananya.iyer@hotmail.com,Ananya,Iyer,+91 9420643796,Science,Professor,FAC8630,State University,Surat,True,False,False,A,2,2011-05-12T18:49:06.830025
+EDU0018,kritika.chopra@university.ac.in,Kritika,Chopra,+91 9292586261,Mechanical,Associate Professor,FAC1439,IIIT,Kanpur,False,True,True,A+,2,2013-01-12T18:49:06.830029
+EDU0019,riya.verma@university.ac.in,Riya,Verma,+91 9090877151,Commerce,Assistant Professor,FAC5190,Private University,Coimbatore,True,True,False,A,3,2019-09-10T18:49:06.830032
+EDU0020,rahul.sharma@nit.ac.in,Rahul,Sharma,+91 9523666672,Computer Science,Admin Staff,FAC2538,NIT,Lucknow,True,True,True,A+,4,2011-03-08T18:49:06.830036
+EDU0021,tanvi.verma@nit.ac.in,Tanvi,Verma,+91 9174192177,Computer Science,Assistant Professor,FAC2177,IIT,Mumbai,True,True,True,A+,1,2020-02-29T18:49:06.830040
+EDU0022,sanjay.verma@hotmail.com,Sanjay,Verma,+91 9899713388,Electrical,Teaching Assistant,FAC9275,IIIT,Hyderabad,False,False,True,A+,4,2016-04-03T18:49:06.830044
+EDU0023,manish.nair@outlook.com,Manish,Nair,+91 9822667114,Mechanical,Teaching Assistant,FAC1604,IIT,Kochi,True,False,False,A++,3,2011-03-06T18:49:06.830047
+EDU0024,riya.chopra@nit.ac.in,Riya,Chopra,+91 9156939415,Civil,Associate Professor,FAC4935,Deemed University,Pune,True,False,True,A++,5,2021-01-28T18:49:06.830051
+EDU0025,arjun.iyer@hotmail.com,Arjun,Iyer,+91 9180158130,Computer Science,Lecturer,FAC3119,Deemed University,Chandigarh,False,False,False,A+,4,2023-04-02T18:49:06.830055
+EDU0026,aditya.mehta@yahoo.in,Aditya,Mehta,+91 9535861489,Mechanical,Teaching Assistant,FAC5237,NIT,Coimbatore,True,True,True,B++,1,2013-02-09T18:49:06.830059
+EDU0027,anjali.iyer@outlook.com,Anjali,Iyer,+91 9380612980,Commerce,Professor,FAC3638,IIIT,Nagpur,True,False,False,A,5,2019-02-11T18:49:06.830063
+EDU0028,gaurav.iyer@outlook.com,Gaurav,Iyer,+91 9694530851,Management,Associate Professor,FAC3451,Deemed University,Jaipur,True,True,True,B++,5,2012-10-08T18:49:06.830066
+EDU0029,akshat.sharma@yahoo.in,Akshat,Sharma,+91 9511728440,Computer Science,Professor,FAC2098,Private University,Kochi,True,True,False,A++,2,2017-02-04T18:49:06.830070
+EDU0030,harsh.desai@rediffmail.com,Harsh,Desai,+91 9347780505,Commerce,Assistant Professor,FAC4278,NIT,Kanpur,True,False,False,A++,1,2017-06-25T18:49:06.830074
+EDU0031,isha.naidu@university.ac.in,Isha,Naidu,+91 9542472803,Civil,HOD,FAC3222,IIT,Visakhapatnam,False,True,True,A++,5,2015-03-11T18:49:06.830078
+EDU0032,varun.rao@outlook.com,Varun,Rao,+91 9424189303,Arts,HOD,FAC1299,NIT,Indore,True,True,False,A+,1,2016-12-28T18:49:06.830083
+EDU0033,kritika.singh@yahoo.in,Kritika,Singh,+91 9496541111,Civil,Admin Staff,FAC6273,IIIT,Hyderabad,False,True,False,A,4,2024-04-06T18:49:06.830087
+EDU0034,kritika.gandhi@nit.ac.in,Kritika,Gandhi,+91 9451687942,Management,Professor,FAC4195,IIIT,Kolkata,True,False,False,A+,1,2012-08-19T18:49:06.830091
+EDU0035,kunal.mittal@hotmail.com,Kunal,Mittal,+91 9396545568,Science,Lecturer,FAC5598,Deemed University,Surat,True,False,True,B+,3,2021-10-29T18:49:06.830095
+EDU0036,harsh.mittal@yahoo.in,Harsh,Mittal,+91 9244173653,Commerce,HOD,FAC1363,Deemed University,Jaipur,True,False,False,A+,5,2012-03-02T18:49:06.830099
+EDU0037,rajesh.kumar@iit.ac.in,Rajesh,Kumar,+91 9441779910,Science,HOD,FAC8257,IIT,Bhopal,False,False,True,B++,1,2021-09-06T18:49:06.830103
+EDU0038,nandini.malhotra@rediffmail.com,Nandini,Malhotra,+91 9686393725,Arts,Professor,FAC6085,Deemed University,Ahmedabad,True,True,True,B++,4,2013-04-23T18:49:06.830107
+EDU0039,simran.sethi@outlook.com,Simran,Sethi,+91 9978167331,Civil,Professor,FAC3649,Private University,Pune,True,False,True,A+,5,2019-09-20T18:49:06.830111
+EDU0040,aakash.agarwal@nit.ac.in,Aakash,Agarwal,+91 9450627475,Commerce,Professor,FAC9839,Deemed University,Lucknow,True,False,False,B++,2,2018-11-18T18:49:06.830115
+EDU0041,isha.gandhi@yahoo.in,Isha,Gandhi,+91 9669591814,Computer Science,Associate Professor,FAC8105,State University,Vadodara,True,False,False,A++,1,2020-04-04T18:49:06.830119
+EDU0042,simran.mittal@hotmail.com,Simran,Mittal,+91 9195221084,Management,Admin Staff,FAC5480,NIT,Surat,False,True,True,A+,5,2022-01-23T18:49:06.830124
+EDU0043,meera.bhatia@hotmail.com,Meera,Bhatia,+91 9873678473,Science,Assistant Professor,FAC9206,Private University,Mumbai,True,True,True,A++,4,2014-08-05T18:49:06.830128
+EDU0044,varun.desai@iit.ac.in,Varun,Desai,+91 9060426709,Commerce,Assistant Professor,FAC5280,State University,Ahmedabad,True,False,False,A+,2,2018-12-11T18:49:06.830132
+EDU0045,tanvi.iyer@rediffmail.com,Tanvi,Iyer,+91 9480277107,Management,Assistant Professor,FAC3377,IIIT,Kochi,True,False,True,A+,1,2024-11-15T18:49:06.830136
+EDU0046,sneha.shah@rediffmail.com,Sneha,Shah,+91 9171759744,Management,Associate Professor,FAC9164,Private University,Delhi,True,True,False,A,3,2020-06-30T18:49:06.830140
+EDU0047,simran.mittal@nit.ac.in,Simran,Mittal,+91 9779541583,Arts,Teaching Assistant,FAC2207,IIIT,Indore,True,False,True,A+,1,2014-08-04T18:49:06.830144
+EDU0048,varun.tomar@university.ac.in,Varun,Tomar,+91 9451947349,Civil,Teaching Assistant,FAC6285,IIIT,Pune,True,True,False,A++,4,2019-05-25T18:49:06.830148
+EDU0049,sneha.rao@university.ac.in,Sneha,Rao,+91 9926741852,Management,Teaching Assistant,FAC6947,NIT,Chennai,False,False,True,A++,2,2020-07-25T18:49:06.830152
+EDU0050,rahul.malhotra@university.ac.in,Rahul,Malhotra,+91 9178055548,Commerce,HOD,FAC6558,State University,Bhopal,True,False,False,B++,4,2013-10-05T18:49:06.830157
+EDU0051,simran.mittal@rediffmail.com,Simran,Mittal,+91 9017201320,Civil,Admin Staff,FAC4524,State University,Vadodara,False,False,True,B++,4,2017-12-10T18:49:06.830161
+EDU0052,vidhi.bhatia@rediffmail.com,Vidhi,Bhatia,+91 9487074462,Commerce,HOD,FAC8096,NIT,Surat,True,True,False,B+,5,2020-05-24T18:49:06.830164
+EDU0053,karan.sethi@outlook.com,Karan,Sethi,+91 9467442089,Mechanical,Assistant Professor,FAC2912,IIT,Delhi,False,False,False,A,3,2012-05-06T18:49:06.830168
+EDU0054,anushka.malhotra@hotmail.com,Anushka,Malhotra,+91 9859574275,Management,HOD,FAC5462,Deemed University,Visakhapatnam,False,True,True,A,1,2021-08-30T18:49:06.830173
+EDU0055,rahul.joshi@rediffmail.com,Rahul,Joshi,+91 9047792615,Commerce,Teaching Assistant,FAC3086,IIIT,Ahmedabad,True,False,False,A+,3,2011-12-30T18:49:06.830177
+EDU0056,arjun.patel@hotmail.com,Arjun,Patel,+91 9779340395,Civil,Assistant Professor,FAC8333,State University,Nagpur,True,True,True,A++,5,2012-01-29T18:49:06.830181
+EDU0057,nikhil.nair@hotmail.com,Nikhil,Nair,+91 9745669152,Management,HOD,FAC2633,Deemed University,Kanpur,True,True,True,A,5,2021-11-24T18:49:06.830185
+EDU0058,shreya.joshi@university.ac.in,Shreya,Joshi,+91 9362254679,Electrical,Lecturer,FAC6758,Deemed University,Surat,False,False,True,A++,3,2024-05-29T18:49:06.830189
+EDU0059,pooja.nair@outlook.com,Pooja,Nair,+91 9469477666,Electrical,HOD,FAC9669,IIIT,Indore,True,False,False,A,1,2019-04-25T18:49:06.830193
+EDU0060,riya.mehta@gmail.com,Riya,Mehta,+91 9434256882,Electrical,Admin Staff,FAC6562,IIIT,Ahmedabad,True,True,True,A,5,2017-07-05T18:49:06.830197
+EDU0061,preeti.rao@gmail.com,Preeti,Rao,+91 9192009234,Management,Associate Professor,FAC5222,State University,Pune,True,False,True,B++,5,2020-08-11T18:49:06.830201
+EDU0062,nikhil.shah@hotmail.com,Nikhil,Shah,+91 9463776744,Science,Teaching Assistant,FAC3800,Deemed University,Bhopal,True,True,True,B+,1,2017-01-27T18:49:06.830205
+EDU0063,kritika.gupta@nit.ac.in,Kritika,Gupta,+91 9559032940,Electrical,HOD,FAC2920,State University,Mumbai,True,False,False,A,3,2022-01-23T18:49:06.830209
+EDU0064,aditya.rao@university.ac.in,Aditya,Rao,+91 9957047770,Science,HOD,FAC3235,Private University,Bhopal,False,False,True,A++,4,2014-03-06T18:49:06.830213
+EDU0065,sanjay.mehta@university.ac.in,Sanjay,Mehta,+91 9226929612,Management,Professor,FAC2876,State University,Bhopal,False,True,True,B+,2,2013-10-21T18:49:06.830217
+EDU0066,rajesh.mehta@gmail.com,Rajesh,Mehta,+91 9423993372,Commerce,Admin Staff,FAC8458,Private University,Delhi,False,True,True,A,5,2023-04-02T18:49:06.830221
+EDU0067,anjali.tomar@iit.ac.in,Anjali,Tomar,+91 9352269396,Computer Science,Associate Professor,FAC8153,IIIT,Pune,True,False,False,B+,1,2017-08-08T18:49:06.830225
+EDU0068,divya.joshi@iit.ac.in,Divya,Joshi,+91 9047839476,Commerce,Assistant Professor,FAC7427,IIIT,Surat,True,True,False,B+,5,2013-06-19T18:49:06.830229
+EDU0069,rahul.malhotra@iit.ac.in,Rahul,Malhotra,+91 9673175326,Mechanical,Lecturer,FAC1251,State University,Delhi,True,False,False,B+,5,2018-09-12T18:49:06.830234
+EDU0070,karan.patel@iit.ac.in,Karan,Patel,+91 9842033633,Mechanical,Associate Professor,FAC3472,IIT,Kochi,True,False,True,A++,1,2014-07-07T18:49:06.830237
+EDU0071,gaurav.agarwal@iit.ac.in,Gaurav,Agarwal,+91 9228827457,Management,HOD,FAC7699,Private University,Pune,True,True,True,B++,1,2019-04-14T18:49:06.830242
+EDU0072,arjun.gandhi@nit.ac.in,Arjun,Gandhi,+91 9640855627,Arts,Admin Staff,FAC9635,IIT,Indore,True,False,False,B++,3,2021-09-01T18:49:06.830246
+EDU0073,nikhil.menon@outlook.com,Nikhil,Menon,+91 9648396014,Arts,Assistant Professor,FAC1608,State University,Chennai,False,True,True,B+,4,2020-08-23T18:49:06.830250
+EDU0074,vikram.sharma@hotmail.com,Vikram,Sharma,+91 9985373785,Civil,Associate Professor,FAC2649,State University,Mumbai,True,False,True,A+,5,2018-05-29T18:49:06.830254
+EDU0075,rajesh.chopra@nit.ac.in,Rajesh,Chopra,+91 9910000475,Electrical,Admin Staff,FAC4732,State University,Bhopal,True,True,False,B++,5,2011-07-29T18:49:06.830258
+EDU0076,aditya.joshi@rediffmail.com,Aditya,Joshi,+91 9388539458,Civil,Admin Staff,FAC1212,NIT,Surat,True,False,True,A,2,2013-01-26T18:49:06.830262
+EDU0077,abhinav.sethi@nit.ac.in,Abhinav,Sethi,+91 9819783074,Science,HOD,FAC6591,IIIT,Jaipur,True,True,True,A,1,2020-05-18T18:49:06.830266
+EDU0078,mohit.nair@iit.ac.in,Mohit,Nair,+91 9981203362,Electrical,Assistant Professor,FAC8129,IIT,Lucknow,True,False,False,B++,2,2025-02-15T18:49:06.830270
+EDU0079,kunal.gupta@gmail.com,Kunal,Gupta,+91 9354051411,Computer Science,Teaching Assistant,FAC1119,NIT,Lucknow,False,True,False,B++,1,2018-05-07T18:49:06.830274
+EDU0080,vidhi.reddy@hotmail.com,Vidhi,Reddy,+91 9193173226,Science,Assistant Professor,FAC7395,IIIT,Delhi,False,False,True,A,3,2014-05-22T18:49:06.830278
+EDU0081,rahul.menon@yahoo.in,Rahul,Menon,+91 9658561132,Mechanical,Associate Professor,FAC2559,IIIT,Nagpur,False,False,False,B++,4,2013-09-22T18:49:06.830282
+EDU0082,sanjay.rao@hotmail.com,Sanjay,Rao,+91 9319512552,Computer Science,Teaching Assistant,FAC4862,State University,Bhopal,True,False,False,A+,1,2015-07-23T18:49:06.830286
+EDU0083,rajesh.pareek@yahoo.in,Rajesh,Pareek,+91 9364023449,Arts,HOD,FAC4435,IIT,Jaipur,True,False,True,B++,4,2012-11-21T18:49:06.830290
+EDU0084,harsh.iyer@outlook.com,Harsh,Iyer,+91 9914163990,Science,HOD,FAC3524,NIT,Surat,False,True,True,A,2,2011-03-14T18:49:06.830294
+EDU0085,simran.sharma@university.ac.in,Simran,Sharma,+91 9181584463,Science,Professor,FAC7210,NIT,Bhopal,False,True,True,B++,1,2011-09-30T18:49:06.830298
+EDU0086,simran.gandhi@hotmail.com,Simran,Gandhi,+91 9250911128,Computer Science,Professor,FAC6117,NIT,Kochi,True,False,True,B+,2,2017-06-25T18:49:06.830302
+EDU0087,neha.chopra@outlook.com,Neha,Chopra,+91 9858375273,Civil,Admin Staff,FAC6860,NIT,Ahmedabad,False,False,False,B+,4,2015-05-18T18:49:06.830306
+EDU0088,preeti.kumar@outlook.com,Preeti,Kumar,+91 9076095478,Civil,Teaching Assistant,FAC7065,State University,Surat,False,True,True,B+,2,2017-08-24T18:49:06.830312
+EDU0089,tanvi.sharma@gmail.com,Tanvi,Sharma,+91 9457237518,Computer Science,HOD,FAC2526,Deemed University,Delhi,True,False,True,A,3,2011-09-14T18:49:06.830317
+EDU0090,akshat.pillai@nit.ac.in,Akshat,Pillai,+91 9294862627,Electrical,Admin Staff,FAC5654,IIIT,Lucknow,True,False,True,B++,4,2014-04-18T18:49:06.830322
+EDU0091,rohan.bansal@yahoo.in,Rohan,Bansal,+91 9029612367,Commerce,Admin Staff,FAC2341,IIIT,Delhi,True,True,True,A+,3,2017-09-18T18:49:06.830326
+EDU0092,kavya.chopra@rediffmail.com,Kavya,Chopra,+91 9475363095,Mechanical,Admin Staff,FAC9863,State University,Nagpur,False,True,True,A+,3,2024-02-27T18:49:06.830330
+EDU0093,neha.khanna@university.ac.in,Neha,Khanna,+91 9111152548,Civil,Lecturer,FAC7130,Deemed University,Coimbatore,True,False,True,A,3,2016-09-14T18:49:06.830334
+EDU0094,abhinav.sethi@university.ac.in,Abhinav,Sethi,+91 9640181103,Commerce,Teaching Assistant,FAC4849,Deemed University,Delhi,False,False,True,A++,2,2020-10-08T18:49:06.830338
+EDU0095,divya.tomar@rediffmail.com,Divya,Tomar,+91 9791280312,Electrical,Associate Professor,FAC9291,NIT,Bangalore,True,True,True,A,3,2016-03-23T18:49:06.830343
+EDU0096,sanjay.luniya@hotmail.com,Sanjay,Luniya,+91 9495779315,Computer Science,Associate Professor,FAC4652,Deemed University,Bhopal,True,True,False,B++,3,2023-08-23T18:49:06.830347
+EDU0097,rohan.shah@hotmail.com,Rohan,Shah,+91 9396512087,Science,Associate Professor,FAC8354,Private University,Delhi,True,True,False,A++,2,2017-10-16T18:49:06.830351
+EDU0098,abhinav.joshi@rediffmail.com,Abhinav,Joshi,+91 9745545892,Commerce,Assistant Professor,FAC2471,Deemed University,Bangalore,True,False,False,A+,4,2019-05-16T18:49:06.830357
+EDU0099,vikram.tomar@yahoo.in,Vikram,Tomar,+91 9890268767,Mechanical,Lecturer,FAC9286,Private University,Kanpur,True,True,True,A+,5,2019-09-14T18:49:06.830361
+EDU0100,rahul.singh@university.ac.in,Rahul,Singh,+91 9038068906,Computer Science,Assistant Professor,FAC6773,NIT,Bhopal,True,False,True,B++,5,2014-04-22T18:49:06.830365
+EDU0101,arjun.luniya@iit.ac.in,Arjun,Luniya,+91 9382261872,Civil,Teaching Assistant,FAC6947,Private University,Coimbatore,True,False,True,A++,1,2021-07-08T18:49:06.830370
+EDU0102,akshat.desai@outlook.com,Akshat,Desai,+91 9458553623,Computer Science,Teaching Assistant,FAC5355,Private University,Nagpur,True,False,False,A++,5,2015-10-06T18:49:06.830374
+EDU0103,rajesh.reddy@university.ac.in,Rajesh,Reddy,+91 9279774318,Science,Professor,FAC4696,Private University,Bangalore,True,True,True,A++,3,2017-04-25T18:49:06.830379
+EDU0104,rohan.joshi@gmail.com,Rohan,Joshi,+91 9363018266,Management,HOD,FAC6960,IIT,Kolkata,True,False,False,A++,2,2015-12-31T18:49:06.830383
+EDU0105,aakash.kumar@nit.ac.in,Aakash,Kumar,+91 9782753872,Commerce,Professor,FAC7303,IIIT,Surat,True,False,True,B++,5,2016-08-09T18:49:06.830387
+EDU0106,aakash.luniya@nit.ac.in,Aakash,Luniya,+91 9780282482,Commerce,Lecturer,FAC3569,IIIT,Visakhapatnam,True,False,True,B+,5,2018-01-12T18:49:06.830391
+EDU0107,isha.jain@nit.ac.in,Isha,Jain,+91 9449843890,Computer Science,Professor,FAC2737,IIT,Chandigarh,True,False,False,B++,2,2012-02-07T18:49:06.830396
+EDU0108,siddharth.kumar@outlook.com,Siddharth,Kumar,+91 9526997097,Commerce,Teaching Assistant,FAC4395,Private University,Coimbatore,False,False,False,A+,5,2014-01-03T18:49:06.830400
+EDU0109,neha.pillai@iit.ac.in,Neha,Pillai,+91 9530782225,Civil,Lecturer,FAC7538,IIIT,Kochi,True,True,False,A+,4,2018-05-23T18:49:06.830404
+EDU0110,rajesh.naidu@hotmail.com,Rajesh,Naidu,+91 9347034204,Management,Associate Professor,FAC8250,IIT,Lucknow,False,True,False,A+,4,2018-09-14T18:49:06.830408
+EDU0111,mohit.iyer@hotmail.com,Mohit,Iyer,+91 9675298177,Science,Lecturer,FAC9680,IIT,Chennai,True,False,True,A,1,2014-05-12T18:49:06.830412
+EDU0112,rahul.bhatia@outlook.com,Rahul,Bhatia,+91 9660462304,Computer Science,Admin Staff,FAC5921,IIT,Lucknow,True,False,False,A++,3,2024-09-22T18:49:06.830417
+EDU0113,karan.nair@yahoo.in,Karan,Nair,+91 9652007336,Arts,Teaching Assistant,FAC3019,Deemed University,Delhi,True,False,True,A,1,2021-08-09T18:49:06.830421
+EDU0114,anushka.desai@hotmail.com,Anushka,Desai,+91 9392397189,Mechanical,Professor,FAC5591,State University,Coimbatore,False,False,False,B++,4,2023-02-22T18:49:06.830425
+EDU0115,anushka.luniya@outlook.com,Anushka,Luniya,+91 9253933630,Arts,Professor,FAC9676,Deemed University,Surat,False,True,False,A++,5,2021-08-20T18:49:06.830429
+EDU0116,harsh.pareek@iit.ac.in,Harsh,Pareek,+91 9375215415,Civil,Lecturer,FAC7401,State University,Vadodara,True,False,False,B++,4,2020-11-24T18:49:06.830433
+EDU0117,ananya.kapoor@outlook.com,Ananya,Kapoor,+91 9533767863,Mechanical,Admin Staff,FAC3914,Deemed University,Chandigarh,True,False,False,B+,5,2017-03-10T18:49:06.830437
+EDU0118,harsh.sharma@nit.ac.in,Harsh,Sharma,+91 9249170374,Mechanical,Associate Professor,FAC7118,IIIT,Surat,True,False,False,A,3,2018-07-09T18:49:06.830441
+EDU0119,harsh.menon@yahoo.in,Harsh,Menon,+91 9076961700,Arts,Teaching Assistant,FAC6549,Private University,Chennai,True,True,True,B+,2,2020-06-11T18:49:06.830446
+EDU0120,vikram.agarwal@gmail.com,Vikram,Agarwal,+91 9351417640,Commerce,Associate Professor,FAC8067,State University,Chennai,False,False,False,A++,4,2017-08-01T18:49:06.830449
+EDU0121,rohan.jain@iit.ac.in,Rohan,Jain,+91 9382561895,Commerce,Admin Staff,FAC2192,Private University,Bhopal,True,False,True,A++,2,2013-06-01T18:49:06.830453
+EDU0122,gaurav.bansal@outlook.com,Gaurav,Bansal,+91 9954592806,Civil,Teaching Assistant,FAC9409,Deemed University,Bangalore,True,True,False,B++,1,2019-08-06T18:49:06.830457
+EDU0123,abhinav.bansal@outlook.com,Abhinav,Bansal,+91 9574971110,Arts,Teaching Assistant,FAC1802,Deemed University,Indore,False,True,False,B++,3,2017-10-20T18:49:06.830461
+EDU0124,sanjay.bhatia@nit.ac.in,Sanjay,Bhatia,+91 9333620823,Commerce,Teaching Assistant,FAC4052,Private University,Vadodara,True,True,True,B++,3,2015-02-19T18:49:06.830464
+EDU0125,harsh.agarwal@outlook.com,Harsh,Agarwal,+91 9030879624,Arts,Assistant Professor,FAC7800,State University,Pune,True,False,True,A+,3,2018-04-21T18:49:06.830468
+EDU0126,sakshi.gupta@gmail.com,Sakshi,Gupta,+91 9238812447,Arts,Admin Staff,FAC6720,IIIT,Visakhapatnam,True,True,False,B++,1,2016-10-10T18:49:06.830472
+EDU0127,tanvi.kulkarni@university.ac.in,Tanvi,Kulkarni,+91 9092190438,Science,Assistant Professor,FAC6263,NIT,Kanpur,False,False,False,A,1,2012-06-23T18:49:06.830475
+EDU0128,priya.singh@outlook.com,Priya,Singh,+91 9858354237,Electrical,Associate Professor,FAC2786,NIT,Nagpur,True,True,False,B+,4,2017-08-27T18:49:06.830479
+EDU0129,rohan.khanna@yahoo.in,Rohan,Khanna,+91 9011274035,Civil,Associate Professor,FAC2987,IIT,Chandigarh,True,False,False,B+,1,2021-07-31T18:49:06.830484
+EDU0130,tanvi.gupta@university.ac.in,Tanvi,Gupta,+91 9148331498,Computer Science,HOD,FAC1227,IIT,Chennai,True,False,False,B++,2,2022-04-30T18:49:06.830488
+EDU0131,riya.agarwal@university.ac.in,Riya,Agarwal,+91 9344149073,Commerce,Associate Professor,FAC8207,Private University,Pune,True,True,False,B+,2,2020-12-09T18:49:06.830492
+EDU0132,vikram.gandhi@rediffmail.com,Vikram,Gandhi,+91 9448149714,Computer Science,Lecturer,FAC7835,NIT,Visakhapatnam,True,True,False,A+,3,2019-09-05T18:49:06.830496
+EDU0133,anjali.gandhi@nit.ac.in,Anjali,Gandhi,+91 9689433214,Commerce,Lecturer,FAC7989,IIIT,Hyderabad,True,True,False,A++,5,2012-04-10T18:49:06.830500
+EDU0134,pooja.gandhi@outlook.com,Pooja,Gandhi,+91 9356262241,Mechanical,Teaching Assistant,FAC5250,Private University,Indore,True,True,False,B+,3,2011-05-30T18:49:06.830503
+EDU0135,neha.menon@rediffmail.com,Neha,Menon,+91 9926933165,Electrical,Teaching Assistant,FAC2003,Private University,Kochi,True,False,True,A,3,2011-05-23T18:49:06.830507
+EDU0136,pooja.rao@university.ac.in,Pooja,Rao,+91 9379033424,Civil,Associate Professor,FAC6662,IIIT,Hyderabad,True,True,True,B++,2,2013-06-02T18:49:06.830511
+EDU0137,sanjay.tomar@outlook.com,Sanjay,Tomar,+91 9868904564,Arts,Assistant Professor,FAC3384,IIIT,Kolkata,True,False,True,A++,1,2017-12-05T18:49:06.830515
+EDU0138,shreya.jain@rediffmail.com,Shreya,Jain,+91 9248211361,Commerce,Teaching Assistant,FAC7688,Deemed University,Kolkata,True,True,True,A++,5,2013-06-04T18:49:06.830518
+EDU0139,amit.sharma@hotmail.com,Amit,Sharma,+91 9389053847,Commerce,Teaching Assistant,FAC7065,State University,Coimbatore,False,True,True,B+,2,2024-03-22T18:49:06.830522
+EDU0140,sanjay.kulkarni@outlook.com,Sanjay,Kulkarni,+91 9460925188,Science,Professor,FAC1231,Private University,Bangalore,True,True,False,B+,4,2019-07-29T18:49:06.830525
+EDU0141,aditya.menon@nit.ac.in,Aditya,Menon,+91 9271920894,Management,Teaching Assistant,FAC1497,Private University,Visakhapatnam,True,True,True,A++,4,2024-11-18T18:49:06.830529
+EDU0142,shreya.chopra@rediffmail.com,Shreya,Chopra,+91 9321045820,Civil,Professor,FAC4926,NIT,Chandigarh,True,False,True,A,4,2014-12-29T18:49:06.830533
+EDU0143,arjun.desai@rediffmail.com,Arjun,Desai,+91 9037960526,Management,Associate Professor,FAC6688,NIT,Kolkata,False,True,False,A+,1,2023-02-17T18:49:06.830536
+EDU0144,isha.verma@iit.ac.in,Isha,Verma,+91 9962570432,Management,Lecturer,FAC6114,IIIT,Kochi,True,True,True,A,4,2016-09-10T18:49:06.830540
+EDU0145,vikram.tomar@rediffmail.com,Vikram,Tomar,+91 9394576401,Civil,HOD,FAC9843,NIT,Nagpur,True,True,True,B++,5,2012-04-24T18:49:06.830543
+EDU0146,harsh.desai@rediffmail.com,Harsh,Desai,+91 9749870797,Arts,Teaching Assistant,FAC5269,NIT,Vadodara,False,True,True,B++,4,2014-02-24T18:49:06.830547
+EDU0147,anushka.reddy@nit.ac.in,Anushka,Reddy,+91 9832680907,Science,Associate Professor,FAC9092,State University,Visakhapatnam,False,False,False,B+,5,2014-04-16T18:49:06.830551
+EDU0148,priya.kumar@yahoo.in,Priya,Kumar,+91 9874538868,Commerce,Assistant Professor,FAC9798,NIT,Mumbai,False,True,False,A+,4,2017-10-17T18:49:06.830555
+EDU0149,ananya.sharma@yahoo.in,Ananya,Sharma,+91 9858906484,Mechanical,Associate Professor,FAC6178,Private University,Vadodara,True,False,True,B++,2,2015-04-19T18:49:06.830558
+EDU0150,kritika.malhotra@university.ac.in,Kritika,Malhotra,+91 9887462576,Civil,Professor,FAC9150,IIIT,Kanpur,True,False,False,A+,5,2016-09-16T18:49:06.830562
+EDU0151,anushka.shah@yahoo.in,Anushka,Shah,+91 9861061597,Management,Admin Staff,FAC3998,IIIT,Nagpur,False,False,True,B+,3,2014-04-09T18:49:06.830566
+EDU0152,nandini.menon@nit.ac.in,Nandini,Menon,+91 9427306448,Mechanical,Teaching Assistant,FAC6207,NIT,Jaipur,True,True,True,A,4,2015-01-22T18:49:06.830570
+EDU0153,kunal.iyer@outlook.com,Kunal,Iyer,+91 9368431035,Arts,Lecturer,FAC6567,NIT,Indore,True,False,True,A,1,2017-02-13T18:49:06.830574
+EDU0154,divya.reddy@gmail.com,Divya,Reddy,+91 9866655198,Arts,Associate Professor,FAC3718,Private University,Chandigarh,True,True,True,B+,1,2018-06-02T18:49:06.830577
+EDU0155,sanjay.sharma@nit.ac.in,Sanjay,Sharma,+91 9668761563,Mechanical,Professor,FAC6344,Deemed University,Bhopal,True,False,False,A+,2,2011-04-25T18:49:06.830581
+EDU0156,aakash.mehta@rediffmail.com,Aakash,Mehta,+91 9346417105,Computer Science,Assistant Professor,FAC2456,Private University,Chandigarh,True,True,False,A,1,2015-01-25T18:49:06.830584
+EDU0157,nandini.singh@rediffmail.com,Nandini,Singh,+91 9830825134,Science,Admin Staff,FAC4962,IIIT,Delhi,True,True,False,A++,4,2017-03-25T18:49:06.830588
+EDU0158,amit.naidu@hotmail.com,Amit,Naidu,+91 9135768312,Commerce,Teaching Assistant,FAC5587,IIT,Lucknow,False,True,True,B++,3,2011-03-30T18:49:06.830592
+EDU0159,varun.agarwal@iit.ac.in,Varun,Agarwal,+91 9794167234,Arts,Lecturer,FAC2740,State University,Bangalore,True,True,False,B++,5,2017-07-21T18:49:06.830595
+EDU0160,anjali.menon@university.ac.in,Anjali,Menon,+91 9068652490,Electrical,Associate Professor,FAC7726,IIT,Visakhapatnam,False,False,False,A+,3,2024-09-22T18:49:06.830599
+EDU0161,sakshi.nair@university.ac.in,Sakshi,Nair,+91 9671764278,Commerce,Associate Professor,FAC1205,IIT,Delhi,True,False,False,A,2,2021-11-18T18:49:06.830602
+EDU0162,aakash.gandhi@university.ac.in,Aakash,Gandhi,+91 9015051077,Civil,Associate Professor,FAC6827,Deemed University,Vadodara,True,False,False,A+,1,2016-08-25T18:49:06.830606
+EDU0163,preeti.naidu@nit.ac.in,Preeti,Naidu,+91 9596648497,Science,Assistant Professor,FAC2572,NIT,Coimbatore,False,True,True,B+,2,2013-05-17T18:49:06.830610
+EDU0164,kritika.bansal@nit.ac.in,Kritika,Bansal,+91 9368275873,Computer Science,Lecturer,FAC6207,IIIT,Delhi,False,False,False,B++,2,2019-12-11T18:49:06.830613
+EDU0165,pooja.tomar@iit.ac.in,Pooja,Tomar,+91 9230333723,Mechanical,Professor,FAC6525,Private University,Delhi,False,False,True,B+,3,2015-04-18T18:49:06.830617
+EDU0166,kavya.bhatia@yahoo.in,Kavya,Bhatia,+91 9473245332,Science,Lecturer,FAC7384,NIT,Bangalore,True,True,True,A,5,2016-04-17T18:49:06.830620
+EDU0167,kritika.sethi@rediffmail.com,Kritika,Sethi,+91 9170144537,Commerce,Teaching Assistant,FAC4176,Deemed University,Kochi,True,True,True,A,4,2018-08-08T18:49:06.830624
+EDU0168,neha.verma@gmail.com,Neha,Verma,+91 9258526328,Civil,Admin Staff,FAC3801,IIIT,Bangalore,False,False,True,B+,3,2022-03-11T18:49:06.830628
+EDU0169,rohan.kapoor@iit.ac.in,Rohan,Kapoor,+91 9660491337,Commerce,Associate Professor,FAC6573,Deemed University,Bangalore,False,False,False,B++,4,2014-06-29T18:49:06.830632
+EDU0170,aditya.iyer@university.ac.in,Aditya,Iyer,+91 9820884371,Mechanical,HOD,FAC2787,Private University,Bangalore,True,True,True,B++,2,2019-07-09T18:49:06.830636
+EDU0171,neha.sharma@university.ac.in,Neha,Sharma,+91 9156437396,Commerce,Lecturer,FAC5629,IIT,Bangalore,True,False,True,A+,2,2018-05-27T18:49:06.830640
+EDU0172,sanjay.khanna@yahoo.in,Sanjay,Khanna,+91 9216481678,Science,Associate Professor,FAC8355,Deemed University,Coimbatore,False,False,True,A++,5,2014-09-08T18:49:06.830643
+EDU0173,neha.luniya@yahoo.in,Neha,Luniya,+91 9499865896,Mechanical,Professor,FAC5028,State University,Indore,True,False,True,B+,5,2014-11-26T18:49:06.830647
+EDU0174,riya.singh@yahoo.in,Riya,Singh,+91 9046739219,Science,Admin Staff,FAC1027,Deemed University,Mumbai,False,True,False,A++,4,2014-04-01T18:49:06.830651
+EDU0175,kritika.kapoor@rediffmail.com,Kritika,Kapoor,+91 9056928113,Management,Associate Professor,FAC2214,NIT,Surat,True,False,True,B++,5,2022-07-19T18:49:06.830655
+EDU0176,gaurav.gandhi@iit.ac.in,Gaurav,Gandhi,+91 9612775406,Management,Assistant Professor,FAC6870,State University,Nagpur,False,True,True,A,2,2018-11-05T18:49:06.830659
+EDU0177,isha.reddy@rediffmail.com,Isha,Reddy,+91 9250865397,Science,Associate Professor,FAC4993,IIIT,Ahmedabad,True,True,True,A,3,2020-03-18T18:49:06.830663
+EDU0178,riya.agarwal@gmail.com,Riya,Agarwal,+91 9252543537,Arts,Professor,FAC2996,NIT,Bhopal,True,True,False,B++,5,2019-07-08T18:49:06.830667
+EDU0179,rahul.patel@hotmail.com,Rahul,Patel,+91 9222404726,Civil,Assistant Professor,FAC7267,Deemed University,Delhi,False,False,True,A,4,2020-12-28T18:49:06.830671
+EDU0180,sneha.chopra@hotmail.com,Sneha,Chopra,+91 9389388214,Mechanical,Lecturer,FAC1897,IIIT,Pune,True,False,False,B++,4,2011-08-25T18:49:06.830675
+EDU0181,gaurav.mittal@university.ac.in,Gaurav,Mittal,+91 9098443375,Computer Science,Lecturer,FAC1184,State University,Delhi,False,False,True,A+,3,2014-10-14T18:49:06.830679
+EDU0182,riya.desai@hotmail.com,Riya,Desai,+91 9350213318,Electrical,Associate Professor,FAC8919,Deemed University,Kanpur,True,False,True,A++,5,2015-05-02T18:49:06.830683
+EDU0183,anjali.luniya@nit.ac.in,Anjali,Luniya,+91 9717424525,Computer Science,Professor,FAC8369,State University,Surat,False,True,True,B++,1,2022-10-24T18:49:06.830687
+EDU0184,tanvi.nair@outlook.com,Tanvi,Nair,+91 9942662583,Civil,Assistant Professor,FAC9183,IIIT,Vadodara,True,True,True,B+,1,2014-04-21T18:49:06.830691
+EDU0185,nandini.pareek@yahoo.in,Nandini,Pareek,+91 9567183572,Mechanical,Associate Professor,FAC3749,Deemed University,Vadodara,False,True,True,B+,1,2022-02-12T18:49:06.830695
+EDU0186,kritika.kulkarni@university.ac.in,Kritika,Kulkarni,+91 9859497567,Arts,Teaching Assistant,FAC3456,IIT,Hyderabad,True,False,True,A++,4,2019-12-03T18:49:06.830699
+EDU0187,aditya.nair@rediffmail.com,Aditya,Nair,+91 9747351368,Science,Professor,FAC3906,Private University,Chennai,True,True,False,A+,5,2021-06-21T18:49:06.830703
+EDU0188,karan.gandhi@outlook.com,Karan,Gandhi,+91 9444407604,Science,Admin Staff,FAC1367,NIT,Indore,True,False,True,A+,2,2019-07-30T18:49:06.830708
+EDU0189,vikram.shah@hotmail.com,Vikram,Shah,+91 9855256439,Civil,Associate Professor,FAC7291,IIT,Hyderabad,False,True,True,A+,3,2024-09-14T18:49:06.830712
+EDU0190,anushka.pillai@outlook.com,Anushka,Pillai,+91 9497644693,Commerce,Teaching Assistant,FAC6696,IIIT,Kanpur,False,True,True,A,3,2021-09-24T18:49:06.830716
+EDU0191,neha.joshi@university.ac.in,Neha,Joshi,+91 9890705529,Electrical,HOD,FAC3126,IIT,Nagpur,True,False,True,A++,3,2018-02-02T18:49:06.830720
+EDU0192,akshat.reddy@nit.ac.in,Akshat,Reddy,+91 9895018541,Computer Science,Teaching Assistant,FAC5933,IIT,Nagpur,True,True,False,A++,5,2020-04-23T18:49:06.830724
+EDU0193,rohan.patel@rediffmail.com,Rohan,Patel,+91 9413773913,Computer Science,Assistant Professor,FAC8730,IIT,Vadodara,True,True,True,A++,3,2016-01-01T18:49:06.830728
+EDU0194,kunal.reddy@nit.ac.in,Kunal,Reddy,+91 9240747824,Electrical,Associate Professor,FAC5641,IIT,Bhopal,False,False,True,A++,2,2017-08-06T18:49:06.830731
+EDU0195,preeti.gupta@university.ac.in,Preeti,Gupta,+91 9440071174,Civil,HOD,FAC3375,NIT,Kolkata,True,False,False,A++,2,2018-05-15T18:49:06.830736
+EDU0196,karan.mehta@university.ac.in,Karan,Mehta,+91 9530832150,Electrical,Admin Staff,FAC1416,IIT,Delhi,False,False,True,A+,2,2013-04-04T18:49:06.830740
+EDU0197,ananya.rao@rediffmail.com,Ananya,Rao,+91 9759599571,Management,Teaching Assistant,FAC8332,IIT,Bhopal,True,False,False,A++,5,2021-10-02T18:49:06.830744
+EDU0198,nandini.malhotra@rediffmail.com,Nandini,Malhotra,+91 9837509292,Arts,Assistant Professor,FAC3551,Private University,Hyderabad,True,True,False,B++,3,2011-11-05T18:49:06.830748
+EDU0199,vikram.mittal@gmail.com,Vikram,Mittal,+91 9782146733,Computer Science,Admin Staff,FAC3695,Private University,Hyderabad,True,False,True,A++,5,2019-11-06T18:49:06.830752
+EDU0200,nikhil.pillai@iit.ac.in,Nikhil,Pillai,+91 9017980145,Arts,Admin Staff,FAC9017,State University,Delhi,True,True,True,B++,3,2013-07-27T18:49:06.830757

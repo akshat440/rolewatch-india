@@ -1,0 +1,151 @@
+user_id,email,first_name,last_name,phone,department,role,medical_council_reg,hospital,hospital_location,specialization,nabh_trained,ayushman_bharat_certified,shift,join_date
+MED0001,neha.malhotra@hotmail.com,Neha,Malhotra,+91 9676149462,Surgery,Pharmacist,MCI197776,AIIMS,Jaipur,Neurology,True,False,Morning,2023-03-10T18:49:06.738574
+MED0002,tanvi.gupta@rediffmail.com,Tanvi,Gupta,+91 9464967730,Surgery,Doctor,MCI693516,Fortis,Kochi,Cardiology,True,True,Night,2019-05-16T18:49:06.738581
+MED0003,priya.reddy@rediffmail.com,Priya,Reddy,+91 9440579732,ICU,Medical Officer,MCI293848,Fortis,Visakhapatnam,Surgery,False,True,Night,2024-01-01T18:49:06.738586
+MED0004,kavya.iyer@outlook.com,Kavya,Iyer,+91 9255311289,Emergency,Staff Nurse,MCI911121,Manipal,Bangalore,Pediatrics,False,True,Night,2017-11-09T18:49:06.738591
+MED0005,isha.iyer@rediffmail.com,Isha,Iyer,+91 9514710087,Pharmacy,Pharmacist,MCI446644,Manipal,Kochi,General Medicine,True,False,Night,2021-01-02T18:49:06.738595
+MED0006,nandini.singh@rediffmail.com,Nandini,Singh,+91 9869392487,OPD,Surgeon,MCI595302,Max Healthcare,Indore,Cardiology,True,True,Morning,2016-07-06T18:49:06.738599
+MED0007,tanvi.verma@gmail.com,Tanvi,Verma,+91 9533158578,Emergency,Nurse,MCI121983,Max Healthcare,Pune,Neurology,True,False,Evening,2016-06-02T18:49:06.738604
+MED0008,kritika.sharma@outlook.com,Kritika,Sharma,+91 9072667229,Emergency,Doctor,MCI856183,Max Healthcare,Kochi,Pediatrics,True,False,Morning,2025-05-11T18:49:06.738608
+MED0009,siddharth.chopra@yahoo.in,Siddharth,Chopra,+91 9572592504,Pharmacy,Surgeon,MCI163722,Govt Hospital,Bhopal,Neurology,False,True,Night,2022-09-13T18:49:06.738612
+MED0010,sanjay.desai@hotmail.com,Sanjay,Desai,+91 9547675950,ICU,Medical Officer,MCI731423,Apollo,Nagpur,Pediatrics,True,False,Evening,2019-05-13T18:49:06.738615
+MED0011,shreya.verma@hotmail.com,Shreya,Verma,+91 9124433707,Cardiology,Pharmacist,MCI344544,Apollo,Jaipur,Surgery,False,False,Morning,2022-06-24T18:49:06.738619
+MED0012,varun.nair@hotmail.com,Varun,Nair,+91 9031366478,OPD,Radiologist,MCI593867,Govt Hospital,Bhopal,General Medicine,True,False,Rotating,2024-09-27T18:49:06.738623
+MED0013,gaurav.tomar@gmail.com,Gaurav,Tomar,+91 9937518481,Surgery,Doctor,MCI354280,Govt Hospital,Visakhapatnam,Surgery,True,True,Rotating,2018-09-03T18:49:06.738628
+MED0014,preeti.naidu@hotmail.com,Preeti,Naidu,+91 9032234250,Cardiology,Doctor,MCI702153,AIIMS,Bhopal,Pediatrics,True,False,Night,2025-07-05T18:49:06.738632
+MED0015,rajesh.pareek@rediffmail.com,Rajesh,Pareek,+91 9795012901,Pharmacy,Doctor,MCI714086,Fortis,Indore,Pediatrics,False,False,Morning,2022-04-22T18:49:06.738636
+MED0016,anushka.jain@hotmail.com,Anushka,Jain,+91 9013530631,Pediatrics,Staff Nurse,MCI481025,Govt Hospital,Kanpur,Cardiology,False,False,Evening,2020-11-23T18:49:06.738640
+MED0017,aakash.pillai@gmail.com,Aakash,Pillai,+91 9298441683,Emergency,Surgeon,MCI220630,Manipal,Mumbai,Cardiology,True,True,Rotating,2018-06-10T18:49:06.738644
+MED0018,neha.kulkarni@rediffmail.com,Neha,Kulkarni,+91 9735614224,OPD,Pharmacist,MCI763860,Max Healthcare,Ahmedabad,General Medicine,False,True,Night,2023-07-17T18:49:06.738648
+MED0019,anjali.kumar@gmail.com,Anjali,Kumar,+91 9031501212,Pharmacy,Doctor,MCI989126,Manipal,Indore,Neurology,True,True,Night,2020-02-18T18:49:06.738652
+MED0020,nikhil.chopra@gmail.com,Nikhil,Chopra,+91 9737401489,Surgery,Nurse,MCI918151,Max Healthcare,Surat,Neurology,True,True,Night,2021-10-24T18:49:06.738656
+MED0021,shreya.kumar@yahoo.in,Shreya,Kumar,+91 9223299527,Pharmacy,Medical Officer,MCI842059,AIIMS,Mumbai,Pediatrics,True,True,Evening,2021-03-01T18:49:06.738660
+MED0022,ananya.patel@gmail.com,Ananya,Patel,+91 9929203775,Emergency,Nurse,MCI852328,AIIMS,Lucknow,Cardiology,True,True,Morning,2020-08-18T18:49:06.738664
+MED0023,manish.menon@hotmail.com,Manish,Menon,+91 9476087497,Pharmacy,Medical Officer,MCI584913,AIIMS,Vadodara,Pediatrics,False,False,Evening,2021-12-08T18:49:06.738668
+MED0024,akshat.tomar@rediffmail.com,Akshat,Tomar,+91 9072577959,Cardiology,Radiologist,MCI459373,Manipal,Bhopal,Surgery,True,True,Evening,2024-09-18T18:49:06.738672
+MED0025,shreya.verma@gmail.com,Shreya,Verma,+91 9894935364,Surgery,Staff Nurse,MCI617454,Manipal,Pune,General Medicine,True,False,Rotating,2025-04-05T18:49:06.738676
+MED0026,mohit.kumar@hotmail.com,Mohit,Kumar,+91 9665009042,ICU,Medical Officer,MCI215816,Max Healthcare,Indore,Neurology,False,True,Evening,2017-01-17T18:49:06.738680
+MED0027,abhinav.bansal@gmail.com,Abhinav,Bansal,+91 9319086101,OPD,Doctor,MCI238678,Fortis,Lucknow,General Medicine,True,False,Night,2019-08-16T18:49:06.738684
+MED0028,anjali.gupta@rediffmail.com,Anjali,Gupta,+91 9131416700,ICU,Surgeon,MCI161132,Manipal,Pune,Neurology,False,False,Night,2023-09-25T18:49:06.738688
+MED0029,karan.kumar@yahoo.in,Karan,Kumar,+91 9180052898,Pharmacy,Medical Officer,MCI992167,Fortis,Coimbatore,Surgery,True,True,Rotating,2020-12-24T18:49:06.738692
+MED0030,neha.kulkarni@outlook.com,Neha,Kulkarni,+91 9360722054,Cardiology,Surgeon,MCI613641,Manipal,Mumbai,Cardiology,False,True,Rotating,2017-07-11T18:49:06.738696
+MED0031,siddharth.iyer@yahoo.in,Siddharth,Iyer,+91 9811280494,OPD,Medical Officer,MCI313776,Manipal,Nagpur,Neurology,True,True,Rotating,2026-01-07T18:49:06.738699
+MED0032,neha.gupta@yahoo.in,Neha,Gupta,+91 9389850343,Pediatrics,Pharmacist,MCI738800,Max Healthcare,Chennai,Cardiology,True,False,Rotating,2025-01-16T18:49:06.738703
+MED0033,mohit.joshi@outlook.com,Mohit,Joshi,+91 9176362339,OPD,Medical Officer,MCI814033,Max Healthcare,Delhi,General Medicine,True,True,Morning,2018-01-19T18:49:06.738707
+MED0034,mohit.shah@yahoo.in,Mohit,Shah,+91 9558798594,Cardiology,Doctor,MCI229280,Fortis,Visakhapatnam,General Medicine,False,True,Rotating,2022-04-17T18:49:06.738711
+MED0035,sneha.nair@rediffmail.com,Sneha,Nair,+91 9911252471,ICU,Pharmacist,MCI372517,Max Healthcare,Indore,Pediatrics,True,False,Night,2019-12-25T18:49:06.738715
+MED0036,divya.luniya@outlook.com,Divya,Luniya,+91 9795407648,Surgery,Medical Officer,MCI165186,Apollo,Bhopal,Neurology,False,False,Evening,2021-04-19T18:49:06.738718
+MED0037,sanjay.sethi@rediffmail.com,Sanjay,Sethi,+91 9219888675,Pediatrics,Staff Nurse,MCI182520,Govt Hospital,Kolkata,Neurology,False,False,Rotating,2018-11-17T18:49:06.738722
+MED0038,sanjay.sharma@outlook.com,Sanjay,Sharma,+91 9473645562,Pediatrics,Doctor,MCI811406,Apollo,Bangalore,Surgery,True,True,Rotating,2020-02-29T18:49:06.738726
+MED0039,aditya.kumar@yahoo.in,Aditya,Kumar,+91 9131451788,OPD,Radiologist,MCI609334,Govt Hospital,Kolkata,Cardiology,True,False,Morning,2017-06-02T18:49:06.738730
+MED0040,priya.mehta@outlook.com,Priya,Mehta,+91 9896137724,Cardiology,Nurse,MCI526558,Max Healthcare,Vadodara,Surgery,True,False,Evening,2020-07-05T18:49:06.738736
+MED0041,aakash.mehta@rediffmail.com,Aakash,Mehta,+91 9274598167,Radiology,Surgeon,MCI614171,Apollo,Kolkata,Neurology,True,False,Morning,2019-08-21T18:49:06.738739
+MED0042,varun.sethi@outlook.com,Varun,Sethi,+91 9068407118,Radiology,Radiologist,MCI264965,Max Healthcare,Nagpur,General Medicine,True,True,Evening,2019-12-18T18:49:06.738743
+MED0043,amit.menon@rediffmail.com,Amit,Menon,+91 9975235572,Surgery,Radiologist,MCI714379,Manipal,Surat,Neurology,True,True,Evening,2019-07-10T18:49:06.738747
+MED0044,tanvi.mehta@yahoo.in,Tanvi,Mehta,+91 9576173334,Emergency,Doctor,MCI425350,Apollo,Coimbatore,Neurology,True,False,Rotating,2024-10-05T18:49:06.738751
+MED0045,pooja.kumar@gmail.com,Pooja,Kumar,+91 9241132129,Surgery,Radiologist,MCI682564,AIIMS,Kochi,General Medicine,True,True,Night,2024-06-22T18:49:06.738755
+MED0046,aditya.menon@rediffmail.com,Aditya,Menon,+91 9374676099,Pharmacy,Nurse,MCI233340,Manipal,Coimbatore,Surgery,False,True,Morning,2019-11-17T18:49:06.738759
+MED0047,nandini.bhatia@hotmail.com,Nandini,Bhatia,+91 9016877887,Pharmacy,Pharmacist,MCI655147,Fortis,Hyderabad,Surgery,False,False,Evening,2022-12-18T18:49:06.738764
+MED0048,isha.malhotra@gmail.com,Isha,Malhotra,+91 9981000033,Emergency,Staff Nurse,MCI343610,Govt Hospital,Jaipur,Pediatrics,True,True,Morning,2021-04-25T18:49:06.738768
+MED0049,neha.shah@hotmail.com,Neha,Shah,+91 9682462354,Radiology,Radiologist,MCI350122,Manipal,Bangalore,General Medicine,False,False,Evening,2020-06-20T18:49:06.738772
+MED0050,anushka.gandhi@yahoo.in,Anushka,Gandhi,+91 9985439116,Pharmacy,Doctor,MCI688263,Apollo,Chennai,Pediatrics,True,False,Evening,2022-08-13T18:49:06.738776
+MED0051,vidhi.bhatia@outlook.com,Vidhi,Bhatia,+91 9348342288,Pharmacy,Pharmacist,MCI121267,AIIMS,Visakhapatnam,Neurology,True,False,Morning,2018-03-23T18:49:06.738780
+MED0052,anushka.sharma@rediffmail.com,Anushka,Sharma,+91 9458609538,Emergency,Surgeon,MCI720824,Govt Hospital,Ahmedabad,Neurology,True,True,Night,2025-01-02T18:49:06.738783
+MED0053,arjun.menon@rediffmail.com,Arjun,Menon,+91 9820160511,Pharmacy,Nurse,MCI302966,Manipal,Visakhapatnam,Surgery,True,True,Evening,2019-05-24T18:49:06.738787
+MED0054,rahul.patel@yahoo.in,Rahul,Patel,+91 9126613370,Surgery,Medical Officer,MCI680218,Max Healthcare,Jaipur,General Medicine,True,False,Night,2023-07-20T18:49:06.738792
+MED0055,arjun.bansal@yahoo.in,Arjun,Bansal,+91 9194584399,Radiology,Nurse,MCI275298,Apollo,Visakhapatnam,Pediatrics,True,True,Night,2021-10-29T18:49:06.738795
+MED0056,nandini.agarwal@hotmail.com,Nandini,Agarwal,+91 9546700288,Pediatrics,Surgeon,MCI958743,Max Healthcare,Kolkata,Cardiology,True,False,Night,2020-09-07T18:49:06.738799
+MED0057,arjun.desai@yahoo.in,Arjun,Desai,+91 9650894536,Cardiology,Nurse,MCI763493,Max Healthcare,Delhi,Cardiology,True,True,Evening,2018-09-02T18:49:06.738803
+MED0058,sakshi.bhatia@rediffmail.com,Sakshi,Bhatia,+91 9976961299,Pharmacy,Pharmacist,MCI324515,Fortis,Jaipur,General Medicine,True,True,Morning,2019-01-25T18:49:06.738807
+MED0059,kritika.singh@hotmail.com,Kritika,Singh,+91 9987082086,Pediatrics,Surgeon,MCI867104,Govt Hospital,Chennai,Neurology,True,True,Rotating,2023-07-08T18:49:06.738811
+MED0060,shreya.kulkarni@outlook.com,Shreya,Kulkarni,+91 9728436834,Cardiology,Nurse,MCI132662,Manipal,Ahmedabad,Surgery,True,False,Morning,2016-11-19T18:49:06.738815
+MED0061,akshat.nair@hotmail.com,Akshat,Nair,+91 9664694810,OPD,Radiologist,MCI659523,Fortis,Bangalore,Neurology,True,False,Night,2017-06-02T18:49:06.738819
+MED0062,preeti.kapoor@outlook.com,Preeti,Kapoor,+91 9551059320,Pediatrics,Staff Nurse,MCI729625,Govt Hospital,Bhopal,Cardiology,True,True,Rotating,2019-10-02T18:49:06.738823
+MED0063,anjali.reddy@yahoo.in,Anjali,Reddy,+91 9644055509,Cardiology,Nurse,MCI608753,Govt Hospital,Kanpur,Neurology,False,False,Evening,2020-07-13T18:49:06.738827
+MED0064,ananya.bhatia@gmail.com,Ananya,Bhatia,+91 9689757132,Cardiology,Doctor,MCI212311,Max Healthcare,Lucknow,Cardiology,True,True,Rotating,2023-03-24T18:49:06.738830
+MED0065,shreya.bansal@hotmail.com,Shreya,Bansal,+91 9369701754,Pharmacy,Staff Nurse,MCI564722,AIIMS,Kanpur,Pediatrics,True,False,Morning,2021-12-31T18:49:06.738834
+MED0066,mohit.singh@hotmail.com,Mohit,Singh,+91 9640869209,Cardiology,Nurse,MCI483836,Max Healthcare,Kolkata,Neurology,True,True,Morning,2023-09-30T18:49:06.738838
+MED0067,varun.kapoor@gmail.com,Varun,Kapoor,+91 9842584132,Radiology,Doctor,MCI181831,Apollo,Bhopal,Cardiology,False,True,Morning,2018-08-20T18:49:06.738842
+MED0068,sneha.agarwal@gmail.com,Sneha,Agarwal,+91 9971080721,Cardiology,Staff Nurse,MCI666302,Apollo,Chennai,Pediatrics,True,False,Rotating,2018-12-30T18:49:06.738846
+MED0069,aakash.jain@rediffmail.com,Aakash,Jain,+91 9610098442,OPD,Doctor,MCI754986,Manipal,Indore,Neurology,False,False,Evening,2019-05-21T18:49:06.738850
+MED0070,mohit.gandhi@outlook.com,Mohit,Gandhi,+91 9385257186,Surgery,Pharmacist,MCI277266,Manipal,Coimbatore,Neurology,False,True,Morning,2025-11-08T18:49:06.738854
+MED0071,sneha.kapoor@hotmail.com,Sneha,Kapoor,+91 9680601355,Cardiology,Surgeon,MCI114911,Manipal,Ahmedabad,Cardiology,True,False,Evening,2024-08-12T18:49:06.738858
+MED0072,mohit.bansal@hotmail.com,Mohit,Bansal,+91 9577194469,ICU,Nurse,MCI820636,Govt Hospital,Chennai,General Medicine,False,True,Evening,2017-12-01T18:49:06.738862
+MED0073,anushka.mittal@outlook.com,Anushka,Mittal,+91 9637053130,Pediatrics,Nurse,MCI729697,Govt Hospital,Nagpur,Surgery,True,True,Rotating,2021-10-16T18:49:06.738866
+MED0074,sanjay.gupta@gmail.com,Sanjay,Gupta,+91 9422501185,ICU,Surgeon,MCI969163,Govt Hospital,Jaipur,Pediatrics,True,True,Evening,2019-01-30T18:49:06.738870
+MED0075,isha.sethi@hotmail.com,Isha,Sethi,+91 9285357146,Pediatrics,Radiologist,MCI713097,AIIMS,Delhi,Surgery,True,True,Night,2020-12-12T18:49:06.738875
+MED0076,anushka.iyer@yahoo.in,Anushka,Iyer,+91 9765861374,Emergency,Medical Officer,MCI113443,Manipal,Vadodara,Surgery,True,True,Morning,2023-10-19T18:49:06.738879
+MED0077,karan.naidu@yahoo.in,Karan,Naidu,+91 9912879605,Pharmacy,Nurse,MCI689489,Manipal,Vadodara,Surgery,True,True,Evening,2019-01-25T18:49:06.738883
+MED0078,anushka.kapoor@outlook.com,Anushka,Kapoor,+91 9777495292,Pediatrics,Nurse,MCI873466,Max Healthcare,Hyderabad,Pediatrics,True,True,Morning,2018-08-12T18:49:06.738887
+MED0079,mohit.kulkarni@yahoo.in,Mohit,Kulkarni,+91 9193723608,Cardiology,Medical Officer,MCI657463,Apollo,Bangalore,Cardiology,False,True,Morning,2024-12-18T18:49:06.738891
+MED0080,nikhil.verma@gmail.com,Nikhil,Verma,+91 9316322837,OPD,Staff Nurse,MCI639746,Fortis,Coimbatore,Pediatrics,False,True,Night,2018-06-30T18:49:06.738896
+MED0081,arjun.luniya@hotmail.com,Arjun,Luniya,+91 9271453815,ICU,Staff Nurse,MCI547459,Govt Hospital,Ahmedabad,General Medicine,True,True,Night,2022-04-23T18:49:06.738899
+MED0082,anjali.sharma@hotmail.com,Anjali,Sharma,+91 9528738162,Pediatrics,Nurse,MCI502292,Fortis,Ahmedabad,Cardiology,True,True,Night,2016-05-18T18:49:06.738903
+MED0083,nandini.nair@outlook.com,Nandini,Nair,+91 9874672935,ICU,Staff Nurse,MCI259868,Apollo,Ahmedabad,Cardiology,True,False,Morning,2019-07-14T18:49:06.738907
+MED0084,karan.kapoor@outlook.com,Karan,Kapoor,+91 9139815288,Surgery,Radiologist,MCI917423,Govt Hospital,Surat,Surgery,True,False,Morning,2017-02-06T18:49:06.738911
+MED0085,priya.mittal@gmail.com,Priya,Mittal,+91 9378780770,OPD,Medical Officer,MCI921512,Govt Hospital,Nagpur,Cardiology,False,True,Rotating,2023-10-24T18:49:06.738915
+MED0086,abhinav.reddy@yahoo.in,Abhinav,Reddy,+91 9474565370,Pharmacy,Pharmacist,MCI374038,Manipal,Ahmedabad,Pediatrics,True,True,Rotating,2016-10-23T18:49:06.738919
+MED0087,vidhi.verma@yahoo.in,Vidhi,Verma,+91 9192492013,Surgery,Doctor,MCI250571,Manipal,Lucknow,Pediatrics,False,True,Evening,2018-07-07T18:49:06.738923
+MED0088,rohan.joshi@outlook.com,Rohan,Joshi,+91 9167629607,Pediatrics,Nurse,MCI386855,Apollo,Chennai,Cardiology,True,True,Evening,2021-05-15T18:49:06.738927
+MED0089,sanjay.sharma@gmail.com,Sanjay,Sharma,+91 9944700761,Radiology,Staff Nurse,MCI247974,Apollo,Mumbai,Neurology,True,False,Night,2017-08-03T18:49:06.738930
+MED0090,sakshi.gandhi@rediffmail.com,Sakshi,Gandhi,+91 9864202047,Surgery,Medical Officer,MCI768844,Apollo,Kanpur,General Medicine,True,False,Evening,2022-09-02T18:49:06.738934
+MED0091,vikram.gupta@gmail.com,Vikram,Gupta,+91 9151764951,Cardiology,Pharmacist,MCI662599,Manipal,Coimbatore,Cardiology,False,True,Evening,2018-02-24T18:49:06.738938
+MED0092,neha.shah@hotmail.com,Neha,Shah,+91 9345069153,ICU,Radiologist,MCI642200,AIIMS,Chennai,Pediatrics,False,False,Night,2017-09-22T18:49:06.738942
+MED0093,aakash.khanna@gmail.com,Aakash,Khanna,+91 9969781353,ICU,Medical Officer,MCI848122,Govt Hospital,Indore,General Medicine,True,False,Rotating,2017-01-25T18:49:06.738945
+MED0094,tanvi.chopra@hotmail.com,Tanvi,Chopra,+91 9260741052,ICU,Surgeon,MCI922928,Max Healthcare,Coimbatore,Cardiology,True,False,Morning,2024-01-02T18:49:06.738949
+MED0095,aakash.reddy@rediffmail.com,Aakash,Reddy,+91 9249919052,ICU,Pharmacist,MCI889090,Fortis,Kochi,Cardiology,True,False,Night,2020-10-22T18:49:06.738953
+MED0096,tanvi.desai@outlook.com,Tanvi,Desai,+91 9570690000,Pediatrics,Doctor,MCI150140,AIIMS,Pune,Pediatrics,False,False,Evening,2021-12-30T18:49:06.738957
+MED0097,pooja.sharma@yahoo.in,Pooja,Sharma,+91 9227324263,Radiology,Nurse,MCI889453,AIIMS,Surat,Pediatrics,False,False,Evening,2016-03-27T18:49:06.738961
+MED0098,meera.reddy@gmail.com,Meera,Reddy,+91 9295394210,Emergency,Surgeon,MCI949151,Max Healthcare,Chennai,Pediatrics,True,False,Evening,2025-07-26T18:49:06.738965
+MED0099,rajesh.patel@gmail.com,Rajesh,Patel,+91 9615168405,Radiology,Nurse,MCI310524,AIIMS,Visakhapatnam,Pediatrics,False,True,Morning,2018-11-30T18:49:06.738969
+MED0100,amit.agarwal@gmail.com,Amit,Agarwal,+91 9436185143,Pediatrics,Nurse,MCI627033,Manipal,Surat,General Medicine,False,False,Night,2022-04-05T18:49:06.738973
+MED0101,anushka.shah@yahoo.in,Anushka,Shah,+91 9226474335,Surgery,Doctor,MCI502880,Apollo,Bangalore,Surgery,False,False,Night,2022-12-18T18:49:06.738976
+MED0102,ananya.kumar@rediffmail.com,Ananya,Kumar,+91 9370392736,ICU,Surgeon,MCI840333,Max Healthcare,Chennai,Surgery,False,True,Rotating,2022-06-09T18:49:06.738980
+MED0103,priya.mittal@outlook.com,Priya,Mittal,+91 9927761447,ICU,Surgeon,MCI362219,Max Healthcare,Pune,Pediatrics,True,False,Evening,2017-04-03T18:49:06.738984
+MED0104,priya.kapoor@gmail.com,Priya,Kapoor,+91 9429387566,Cardiology,Pharmacist,MCI571703,Max Healthcare,Vadodara,Pediatrics,True,True,Morning,2019-09-10T18:49:06.738988
+MED0105,siddharth.bhatia@outlook.com,Siddharth,Bhatia,+91 9417517171,ICU,Medical Officer,MCI726284,Apollo,Lucknow,Pediatrics,True,True,Evening,2020-04-12T18:49:06.738991
+MED0106,rahul.nair@yahoo.in,Rahul,Nair,+91 9449875741,Cardiology,Medical Officer,MCI324568,Max Healthcare,Delhi,Pediatrics,True,True,Evening,2020-07-09T18:49:06.738995
+MED0107,isha.kumar@yahoo.in,Isha,Kumar,+91 9894551648,OPD,Doctor,MCI567327,Apollo,Visakhapatnam,Cardiology,True,False,Morning,2023-05-06T18:49:06.738999
+MED0108,amit.shah@hotmail.com,Amit,Shah,+91 9268438454,Emergency,Radiologist,MCI849356,Manipal,Mumbai,Neurology,True,False,Morning,2025-07-23T18:49:06.739003
+MED0109,varun.bhatia@hotmail.com,Varun,Bhatia,+91 9618699071,Radiology,Pharmacist,MCI297303,Fortis,Jaipur,Surgery,False,True,Rotating,2025-02-05T18:49:06.739006
+MED0110,nikhil.luniya@yahoo.in,Nikhil,Luniya,+91 9168879508,Pediatrics,Radiologist,MCI787848,Apollo,Chennai,Neurology,True,False,Rotating,2022-08-22T18:49:06.739010
+MED0111,neha.pillai@outlook.com,Neha,Pillai,+91 9879973275,Emergency,Radiologist,MCI502480,AIIMS,Ahmedabad,Pediatrics,True,False,Morning,2019-07-12T18:49:06.739015
+MED0112,amit.bansal@gmail.com,Amit,Bansal,+91 9385933655,Cardiology,Doctor,MCI357289,Apollo,Ahmedabad,Pediatrics,True,False,Night,2017-02-25T18:49:06.739018
+MED0113,vikram.tomar@outlook.com,Vikram,Tomar,+91 9635348828,Pediatrics,Medical Officer,MCI896617,Max Healthcare,Jaipur,Neurology,True,False,Morning,2021-07-06T18:49:06.739022
+MED0114,sanjay.rao@rediffmail.com,Sanjay,Rao,+91 9954064126,Pediatrics,Medical Officer,MCI628840,Max Healthcare,Kochi,General Medicine,True,True,Night,2021-06-05T18:49:06.739026
+MED0115,abhinav.kapoor@gmail.com,Abhinav,Kapoor,+91 9288868735,Radiology,Pharmacist,MCI200134,Max Healthcare,Chandigarh,General Medicine,True,True,Morning,2024-06-29T18:49:06.739030
+MED0116,shreya.gandhi@gmail.com,Shreya,Gandhi,+91 9314113684,Pediatrics,Medical Officer,MCI746628,Manipal,Kolkata,Cardiology,True,False,Morning,2022-07-22T18:49:06.739034
+MED0117,nandini.kumar@rediffmail.com,Nandini,Kumar,+91 9256893180,ICU,Staff Nurse,MCI445335,AIIMS,Mumbai,General Medicine,True,True,Rotating,2019-02-05T18:49:06.739038
+MED0118,sakshi.jain@outlook.com,Sakshi,Jain,+91 9210939720,Radiology,Medical Officer,MCI683822,Max Healthcare,Mumbai,General Medicine,True,False,Rotating,2025-04-11T18:49:06.739042
+MED0119,arjun.kapoor@rediffmail.com,Arjun,Kapoor,+91 9328053197,Pharmacy,Radiologist,MCI710290,Fortis,Bangalore,Cardiology,True,True,Rotating,2017-03-04T18:49:06.739046
+MED0120,sneha.tomar@yahoo.in,Sneha,Tomar,+91 9324659683,Radiology,Nurse,MCI259535,Manipal,Surat,Pediatrics,True,False,Rotating,2020-03-17T18:49:06.739051
+MED0121,shreya.gupta@yahoo.in,Shreya,Gupta,+91 9380807776,Surgery,Pharmacist,MCI387420,Manipal,Mumbai,Neurology,True,False,Evening,2022-04-13T18:49:06.739055
+MED0122,aakash.luniya@gmail.com,Aakash,Luniya,+91 9770421814,Pediatrics,Pharmacist,MCI198111,Max Healthcare,Hyderabad,Neurology,True,True,Evening,2024-10-30T18:49:06.739059
+MED0123,vikram.luniya@outlook.com,Vikram,Luniya,+91 9177397497,Radiology,Doctor,MCI711830,Apollo,Nagpur,Cardiology,True,True,Morning,2017-05-18T18:49:06.739064
+MED0124,kavya.kapoor@hotmail.com,Kavya,Kapoor,+91 9566909919,Emergency,Radiologist,MCI637012,AIIMS,Vadodara,Cardiology,False,False,Evening,2024-11-02T18:49:06.739067
+MED0125,kunal.desai@hotmail.com,Kunal,Desai,+91 9431973942,Pediatrics,Nurse,MCI745237,Apollo,Hyderabad,General Medicine,True,True,Evening,2025-03-02T18:49:06.739071
+MED0126,amit.sethi@outlook.com,Amit,Sethi,+91 9288117709,OPD,Medical Officer,MCI864469,AIIMS,Jaipur,Surgery,False,True,Morning,2017-03-11T18:49:06.739075
+MED0127,vikram.tomar@rediffmail.com,Vikram,Tomar,+91 9852163391,Cardiology,Pharmacist,MCI458681,Fortis,Ahmedabad,Cardiology,False,False,Night,2016-08-13T18:49:06.739079
+MED0128,priya.agarwal@hotmail.com,Priya,Agarwal,+91 9038056608,OPD,Medical Officer,MCI647202,Manipal,Jaipur,Cardiology,True,True,Rotating,2022-10-10T18:49:06.739083
+MED0129,simran.singh@outlook.com,Simran,Singh,+91 9170553759,ICU,Staff Nurse,MCI394762,Apollo,Bhopal,Cardiology,True,True,Evening,2025-06-21T18:49:06.739087
+MED0130,neha.kulkarni@gmail.com,Neha,Kulkarni,+91 9395499512,Cardiology,Nurse,MCI887208,Manipal,Chennai,Neurology,True,True,Morning,2021-10-28T18:49:06.739091
+MED0131,vikram.tomar@gmail.com,Vikram,Tomar,+91 9382569049,Emergency,Radiologist,MCI353656,Apollo,Vadodara,General Medicine,False,False,Night,2019-01-14T18:49:06.739095
+MED0132,vidhi.naidu@rediffmail.com,Vidhi,Naidu,+91 9719955928,Emergency,Radiologist,MCI539566,Fortis,Delhi,Neurology,True,False,Night,2023-06-10T18:49:06.739099
+MED0133,karan.tomar@gmail.com,Karan,Tomar,+91 9768444829,OPD,Doctor,MCI532059,AIIMS,Bhopal,Cardiology,True,False,Night,2023-06-07T18:49:06.739103
+MED0134,mohit.bhatia@outlook.com,Mohit,Bhatia,+91 9622563334,ICU,Doctor,MCI976885,AIIMS,Kochi,Pediatrics,False,True,Night,2017-05-05T18:49:06.739107
+MED0135,vikram.gupta@hotmail.com,Vikram,Gupta,+91 9487381309,Pediatrics,Pharmacist,MCI353191,AIIMS,Mumbai,Neurology,False,False,Evening,2024-04-18T18:49:06.739111
+MED0136,kunal.rao@rediffmail.com,Kunal,Rao,+91 9193877562,OPD,Radiologist,MCI759743,AIIMS,Indore,Pediatrics,True,True,Night,2020-11-10T18:49:06.739114
+MED0137,vidhi.kumar@gmail.com,Vidhi,Kumar,+91 9886978213,Pediatrics,Doctor,MCI984288,Max Healthcare,Ahmedabad,Pediatrics,False,False,Rotating,2022-06-13T18:49:06.739118
+MED0138,shreya.menon@gmail.com,Shreya,Menon,+91 9055092578,Pharmacy,Radiologist,MCI273151,Manipal,Delhi,Cardiology,True,True,Evening,2019-12-05T18:49:06.739122
+MED0139,isha.chopra@gmail.com,Isha,Chopra,+91 9261640573,OPD,Medical Officer,MCI791177,Govt Hospital,Ahmedabad,Pediatrics,True,False,Evening,2022-03-11T18:49:06.739126
+MED0140,kunal.tomar@rediffmail.com,Kunal,Tomar,+91 9656208481,Cardiology,Doctor,MCI264041,AIIMS,Kanpur,General Medicine,False,True,Morning,2019-04-06T18:49:06.739130
+MED0141,preeti.verma@yahoo.in,Preeti,Verma,+91 9089157156,Pediatrics,Medical Officer,MCI954226,Fortis,Vadodara,Pediatrics,True,True,Morning,2024-12-19T18:49:06.739134
+MED0142,anushka.iyer@outlook.com,Anushka,Iyer,+91 9113524484,OPD,Radiologist,MCI821185,AIIMS,Delhi,Surgery,True,True,Morning,2018-05-14T18:49:06.739137
+MED0143,divya.bhatia@hotmail.com,Divya,Bhatia,+91 9678636819,OPD,Pharmacist,MCI477465,Manipal,Nagpur,Cardiology,False,False,Night,2023-04-03T18:49:06.739141
+MED0144,meera.rao@rediffmail.com,Meera,Rao,+91 9125232700,ICU,Radiologist,MCI281398,Apollo,Delhi,General Medicine,True,False,Evening,2021-09-02T18:49:06.739145
+MED0145,anjali.naidu@outlook.com,Anjali,Naidu,+91 9214807387,Surgery,Surgeon,MCI166836,Govt Hospital,Kochi,General Medicine,False,False,Rotating,2016-03-16T18:49:06.739149
+MED0146,ananya.joshi@yahoo.in,Ananya,Joshi,+91 9380656492,Pediatrics,Radiologist,MCI166903,Fortis,Surat,Pediatrics,True,False,Night,2021-01-11T18:49:06.739153
+MED0147,shreya.joshi@gmail.com,Shreya,Joshi,+91 9815894198,Pediatrics,Radiologist,MCI548690,Manipal,Chandigarh,Pediatrics,True,True,Rotating,2022-06-23T18:49:06.739158
+MED0148,sakshi.sharma@outlook.com,Sakshi,Sharma,+91 9189907355,Surgery,Nurse,MCI491020,Fortis,Chennai,Surgery,True,False,Night,2023-10-13T18:49:06.739162
+MED0149,preeti.kulkarni@hotmail.com,Preeti,Kulkarni,+91 9546989460,OPD,Surgeon,MCI110195,AIIMS,Lucknow,Surgery,False,False,Rotating,2020-02-26T18:49:06.739166
+MED0150,riya.reddy@rediffmail.com,Riya,Reddy,+91 9758412055,Radiology,Surgeon,MCI988942,Apollo,Vadodara,Cardiology,False,True,Night,2025-09-23T18:49:06.739170

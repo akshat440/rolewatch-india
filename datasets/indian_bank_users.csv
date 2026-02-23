@@ -1,0 +1,101 @@
+user_id,email,first_name,last_name,phone,department,role,employee_id,branch_code,branch_location,rbi_certified,aadhar_linked,pan_verified,mfa_enabled,join_date,last_training_date
+BANK0001,rahul.tomar@outlook.com,Rahul,Tomar,+91 9639958838,Corporate Banking,Compliance Officer,EMP23434,ICICI858,Kochi,True,True,True,False,2025-11-16T18:49:06.713262,2026-02-04T18:49:06.713271
+BANK0002,amit.mehta@yahoo.in,Amit,Mehta,+91 9190801586,Retail Banking,Credit Analyst,EMP36062,ICICI765,Kochi,True,True,True,True,2023-07-16T18:49:06.713279,2025-04-24T18:49:06.713281
+BANK0003,karan.pareek@yahoo.in,Karan,Pareek,+91 9355667651,Treasury,Branch Manager,EMP38221,HDFC204,Bangalore,True,True,True,True,2024-01-16T18:49:06.713289,2025-08-27T18:49:06.713290
+BANK0004,preeti.pillai@gmail.com,Preeti,Pillai,+91 9281971316,Retail Banking,Relationship Manager,EMP20328,ICICI400,Chandigarh,True,True,True,True,2022-02-08T18:49:06.713295,2026-01-15T18:49:06.713296
+BANK0005,vidhi.joshi@outlook.com,Vidhi,Joshi,+91 9941244663,Retail Banking,Relationship Manager,EMP46434,HDFC750,Kanpur,True,True,True,True,2024-01-24T18:49:06.713300,2025-11-04T18:49:06.713301
+BANK0006,karan.sharma@hotmail.com,Karan,Sharma,+91 9781691040,Operations,Branch Manager,EMP31417,HDFC488,Jaipur,False,True,True,True,2022-03-20T18:49:06.713308,2025-09-06T18:49:06.713309
+BANK0007,rajesh.joshi@gmail.com,Rajesh,Joshi,+91 9463843426,Treasury,Teller,EMP37653,ICICI997,Lucknow,True,True,True,False,2023-11-02T18:49:06.713313,2025-03-27T18:49:06.713314
+BANK0008,abhinav.patel@outlook.com,Abhinav,Patel,+91 9743101783,Operations,Credit Analyst,EMP80644,HDFC864,Coimbatore,True,True,True,False,2024-01-10T18:49:06.713319,2025-10-30T18:49:06.713320
+BANK0009,sneha.kulkarni@gmail.com,Sneha,Kulkarni,+91 9824716857,Corporate Banking,Compliance Officer,EMP30969,ICICI532,Chandigarh,True,True,True,False,2023-12-01T18:49:06.713324,2025-04-20T18:49:06.713325
+BANK0010,abhinav.pillai@hotmail.com,Abhinav,Pillai,+91 9825374874,Operations,Credit Analyst,EMP44973,ICICI448,Hyderabad,True,True,True,False,2025-03-03T18:49:06.713329,2025-07-02T18:49:06.713330
+BANK0011,anushka.pillai@hotmail.com,Anushka,Pillai,+91 9778139880,Retail Banking,IT Admin,EMP91959,HDFC961,Vadodara,False,True,True,True,2025-03-13T18:49:06.713334,2025-08-12T18:49:06.713335
+BANK0012,pooja.pareek@hotmail.com,Pooja,Pareek,+91 9475579548,Retail Banking,Teller,EMP57576,HDFC345,Delhi,True,True,True,True,2025-07-29T18:49:06.713340,2025-06-16T18:49:06.713341
+BANK0013,priya.agarwal@yahoo.in,Priya,Agarwal,+91 9283793389,Corporate Banking,Loan Officer,EMP79163,ICICI533,Pune,False,True,True,True,2022-01-21T18:49:06.713345,2025-09-13T18:49:06.713346
+BANK0014,gaurav.sethi@rediffmail.com,Gaurav,Sethi,+91 9170597444,Retail Banking,Branch Manager,EMP39451,SBI446,Mumbai,False,True,True,True,2022-10-03T18:49:06.713350,2025-10-30T18:49:06.713351
+BANK0015,anushka.sharma@gmail.com,Anushka,Sharma,+91 9619046318,Retail Banking,IT Admin,EMP53309,SBI626,Ahmedabad,True,True,True,False,2024-11-08T18:49:06.713355,2025-05-19T18:49:06.713356
+BANK0016,sneha.menon@yahoo.in,Sneha,Menon,+91 9264634663,Corporate Banking,Teller,EMP22704,ICICI541,Kanpur,True,True,True,False,2023-06-09T18:49:06.713360,2026-01-23T18:49:06.713361
+BANK0017,neha.kumar@rediffmail.com,Neha,Kumar,+91 9424665841,Corporate Banking,Branch Manager,EMP34931,ICICI559,Chennai,True,True,True,True,2024-06-29T18:49:06.713365,2025-06-28T18:49:06.713366
+BANK0018,aditya.sharma@rediffmail.com,Aditya,Sharma,+91 9123141087,Retail Banking,Compliance Officer,EMP80855,SBI195,Ahmedabad,True,True,True,False,2023-05-02T18:49:06.713370,2025-06-18T18:49:06.713371
+BANK0019,rohan.mittal@gmail.com,Rohan,Mittal,+91 9760864911,Retail Banking,Relationship Manager,EMP44760,HDFC392,Indore,False,True,True,False,2025-03-09T18:49:06.713378,2025-11-14T18:49:06.713380
+BANK0020,riya.mehta@gmail.com,Riya,Mehta,+91 9082772208,Retail Banking,Compliance Officer,EMP51104,SBI151,Coimbatore,True,True,True,True,2025-09-26T18:49:06.713384,2025-06-04T18:49:06.713385
+BANK0021,amit.nair@gmail.com,Amit,Nair,+91 9019121552,Operations,IT Admin,EMP40828,HDFC222,Coimbatore,True,True,True,True,2022-08-01T18:49:06.713389,2026-01-09T18:49:06.713390
+BANK0022,isha.chopra@outlook.com,Isha,Chopra,+91 9699889098,Operations,Loan Officer,EMP41285,HDFC505,Chennai,False,True,True,True,2023-06-29T18:49:06.713393,2025-09-11T18:49:06.713394
+BANK0023,priya.pareek@rediffmail.com,Priya,Pareek,+91 9085563727,Retail Banking,Teller,EMP80468,SBI618,Jaipur,True,True,True,True,2025-09-02T18:49:06.713398,2025-10-17T18:49:06.713399
+BANK0024,nikhil.malhotra@yahoo.in,Nikhil,Malhotra,+91 9282909480,Operations,Loan Officer,EMP90173,ICICI641,Mumbai,False,True,True,True,2022-05-03T18:49:06.713404,2025-12-28T18:49:06.713405
+BANK0025,sneha.pillai@gmail.com,Sneha,Pillai,+91 9984252420,Corporate Banking,Loan Officer,EMP46930,ICICI315,Lucknow,True,True,True,True,2023-03-22T18:49:06.713409,2025-06-14T18:49:06.713410
+BANK0026,divya.kumar@gmail.com,Divya,Kumar,+91 9347135391,Retail Banking,Teller,EMP53719,SBI752,Jaipur,True,True,True,False,2022-12-18T18:49:06.713414,2025-02-23T18:49:06.713415
+BANK0027,manish.pareek@gmail.com,Manish,Pareek,+91 9930005727,IT Security,Teller,EMP58393,ICICI665,Chennai,True,True,True,True,2025-10-27T18:49:06.713419,2025-09-15T18:49:06.713420
+BANK0028,nikhil.luniya@outlook.com,Nikhil,Luniya,+91 9643491314,Operations,Teller,EMP56357,ICICI995,Indore,False,True,True,True,2024-09-23T18:49:06.713424,2025-11-28T18:49:06.713425
+BANK0029,vikram.jain@gmail.com,Vikram,Jain,+91 9754585178,Risk & Compliance,IT Admin,EMP97806,ICICI930,Ahmedabad,True,True,True,True,2021-08-22T18:49:06.713429,2025-02-25T18:49:06.713430
+BANK0030,neha.bansal@gmail.com,Neha,Bansal,+91 9239854548,Corporate Banking,IT Admin,EMP70332,HDFC412,Ahmedabad,True,True,True,True,2022-05-10T18:49:06.713434,2025-11-13T18:49:06.713435
+BANK0031,gaurav.bhatia@outlook.com,Gaurav,Bhatia,+91 9947463522,Treasury,Compliance Officer,EMP76768,HDFC795,Kochi,True,True,True,True,2025-05-29T18:49:06.713439,2025-10-09T18:49:06.713440
+BANK0032,vikram.pillai@gmail.com,Vikram,Pillai,+91 9990070438,Risk & Compliance,Loan Officer,EMP51114,HDFC720,Vadodara,True,True,True,False,2022-10-28T18:49:06.713444,2025-11-14T18:49:06.713445
+BANK0033,divya.luniya@rediffmail.com,Divya,Luniya,+91 9879782527,IT Security,Compliance Officer,EMP97900,SBI472,Indore,True,True,True,True,2022-07-24T18:49:06.713449,2025-09-12T18:49:06.713450
+BANK0034,rahul.kapoor@hotmail.com,Rahul,Kapoor,+91 9599508850,Risk & Compliance,Loan Officer,EMP62743,ICICI402,Kochi,True,True,True,True,2023-09-12T18:49:06.713453,2025-03-16T18:49:06.713454
+BANK0035,tanvi.nair@hotmail.com,Tanvi,Nair,+91 9050392808,Risk & Compliance,Credit Analyst,EMP10053,HDFC393,Pune,True,True,True,True,2023-06-13T18:49:06.713458,2025-07-08T18:49:06.713459
+BANK0036,sakshi.mehta@hotmail.com,Sakshi,Mehta,+91 9232775593,Operations,Teller,EMP47196,ICICI779,Chandigarh,True,True,True,True,2021-06-19T18:49:06.713463,2025-10-22T18:49:06.713464
+BANK0037,sanjay.joshi@yahoo.in,Sanjay,Joshi,+91 9713278320,Retail Banking,Branch Manager,EMP72277,ICICI970,Bangalore,True,True,True,False,2022-07-11T18:49:06.713468,2025-05-01T18:49:06.713469
+BANK0038,anjali.bansal@rediffmail.com,Anjali,Bansal,+91 9342747037,Corporate Banking,Compliance Officer,EMP10726,SBI897,Indore,True,True,True,True,2021-07-19T18:49:06.713473,2025-02-28T18:49:06.713474
+BANK0039,siddharth.naidu@gmail.com,Siddharth,Naidu,+91 9143446826,Retail Banking,Relationship Manager,EMP27477,HDFC783,Vadodara,False,True,True,True,2021-10-27T18:49:06.713478,2025-07-08T18:49:06.713479
+BANK0040,mohit.shah@hotmail.com,Mohit,Shah,+91 9231361812,Operations,IT Admin,EMP72216,HDFC365,Ahmedabad,False,True,True,True,2021-10-05T18:49:06.713483,2025-05-29T18:49:06.713484
+BANK0041,harsh.desai@outlook.com,Harsh,Desai,+91 9220399639,Operations,Loan Officer,EMP40735,HDFC443,Lucknow,False,True,True,True,2025-04-12T18:49:06.713488,2025-12-04T18:49:06.713489
+BANK0042,kavya.bansal@yahoo.in,Kavya,Bansal,+91 9618620650,Risk & Compliance,Relationship Manager,EMP53369,ICICI577,Indore,True,True,True,True,2021-05-21T18:49:06.713492,2025-07-19T18:49:06.713493
+BANK0043,tanvi.tomar@hotmail.com,Tanvi,Tomar,+91 9374019136,Retail Banking,Loan Officer,EMP49139,HDFC973,Indore,False,True,True,True,2023-04-27T18:49:06.713497,2025-10-30T18:49:06.713498
+BANK0044,karan.shah@rediffmail.com,Karan,Shah,+91 9862191530,Treasury,Compliance Officer,EMP99016,HDFC841,Kolkata,True,True,True,True,2022-07-26T18:49:06.713502,2025-05-22T18:49:06.713503
+BANK0045,akshat.mittal@hotmail.com,Akshat,Mittal,+91 9098986321,Retail Banking,Teller,EMP94246,HDFC238,Bhopal,True,True,True,True,2024-08-06T18:49:06.713507,2025-08-09T18:49:06.713508
+BANK0046,meera.mehta@rediffmail.com,Meera,Mehta,+91 9455298556,Risk & Compliance,Loan Officer,EMP65255,HDFC954,Bangalore,True,True,True,True,2021-11-08T18:49:06.713511,2025-05-19T18:49:06.713512
+BANK0047,rajesh.khanna@yahoo.in,Rajesh,Khanna,+91 9997477029,Retail Banking,IT Admin,EMP14067,SBI304,Mumbai,False,True,True,True,2024-09-19T18:49:06.713516,2025-12-17T18:49:06.713517
+BANK0048,nandini.gupta@hotmail.com,Nandini,Gupta,+91 9672415804,Operations,Loan Officer,EMP58351,SBI720,Chandigarh,False,True,True,True,2021-09-11T18:49:06.713521,2025-11-28T18:49:06.713522
+BANK0049,sanjay.verma@hotmail.com,Sanjay,Verma,+91 9851870192,IT Security,Compliance Officer,EMP59192,HDFC832,Pune,True,True,True,True,2025-06-26T18:49:06.713526,2025-02-28T18:49:06.713527
+BANK0050,sanjay.gupta@hotmail.com,Sanjay,Gupta,+91 9856600900,IT Security,Relationship Manager,EMP96706,HDFC170,Vadodara,False,True,True,True,2025-12-26T18:49:06.713531,2025-07-19T18:49:06.713532
+BANK0051,harsh.verma@rediffmail.com,Harsh,Verma,+91 9495306788,Risk & Compliance,Compliance Officer,EMP30052,HDFC280,Vadodara,False,True,True,True,2022-08-08T18:49:06.713536,2025-05-20T18:49:06.713537
+BANK0052,nandini.naidu@rediffmail.com,Nandini,Naidu,+91 9046023439,Treasury,IT Admin,EMP42177,SBI385,Bhopal,True,True,True,False,2022-11-10T18:49:06.713541,2025-04-13T18:49:06.713542
+BANK0053,tanvi.bhatia@gmail.com,Tanvi,Bhatia,+91 9253622663,Corporate Banking,Relationship Manager,EMP37802,HDFC916,Jaipur,True,True,True,True,2022-09-18T18:49:06.713545,2025-02-25T18:49:06.713546
+BANK0054,karan.pareek@hotmail.com,Karan,Pareek,+91 9621490777,Corporate Banking,Compliance Officer,EMP63271,HDFC668,Ahmedabad,False,True,True,False,2022-06-08T18:49:06.713550,2025-02-20T18:49:06.713551
+BANK0055,harsh.gandhi@gmail.com,Harsh,Gandhi,+91 9949491631,Corporate Banking,Relationship Manager,EMP41890,HDFC779,Coimbatore,True,True,True,False,2022-12-14T18:49:06.713555,2025-05-24T18:49:06.713556
+BANK0056,shreya.shah@hotmail.com,Shreya,Shah,+91 9457219209,Operations,Relationship Manager,EMP45509,HDFC357,Ahmedabad,True,True,True,True,2024-04-14T18:49:06.713560,2025-12-20T18:49:06.713561
+BANK0057,ananya.nair@yahoo.in,Ananya,Nair,+91 9674988034,Treasury,Compliance Officer,EMP87278,ICICI711,Surat,True,True,True,True,2024-05-24T18:49:06.713565,2025-10-26T18:49:06.713566
+BANK0058,nikhil.nair@outlook.com,Nikhil,Nair,+91 9881690398,Corporate Banking,Loan Officer,EMP15965,SBI666,Surat,False,True,True,True,2022-06-24T18:49:06.713570,2025-06-13T18:49:06.713571
+BANK0059,neha.pareek@hotmail.com,Neha,Pareek,+91 9573001391,Risk & Compliance,Relationship Manager,EMP54657,SBI152,Jaipur,True,True,True,True,2021-06-12T18:49:06.713575,2026-01-17T18:49:06.713576
+BANK0060,gaurav.kulkarni@gmail.com,Gaurav,Kulkarni,+91 9094482772,Operations,Teller,EMP29887,SBI930,Coimbatore,True,True,True,True,2024-08-30T18:49:06.713580,2025-12-21T18:49:06.713581
+BANK0061,aakash.jain@hotmail.com,Aakash,Jain,+91 9093002706,Corporate Banking,IT Admin,EMP78494,HDFC561,Bhopal,True,True,True,False,2024-05-05T18:49:06.713585,2025-05-04T18:49:06.713586
+BANK0062,mohit.kumar@hotmail.com,Mohit,Kumar,+91 9937888820,Operations,Branch Manager,EMP44687,ICICI183,Kolkata,True,True,True,True,2022-12-17T18:49:06.713591,2026-01-12T18:49:06.713592
+BANK0063,pooja.pareek@rediffmail.com,Pooja,Pareek,+91 9289699989,Risk & Compliance,Loan Officer,EMP14278,SBI395,Surat,False,True,True,False,2025-08-28T18:49:06.713596,2025-03-05T18:49:06.713598
+BANK0064,kavya.pillai@hotmail.com,Kavya,Pillai,+91 9667061186,Retail Banking,Credit Analyst,EMP39466,ICICI252,Jaipur,True,True,True,True,2025-09-20T18:49:06.713602,2025-11-27T18:49:06.713604
+BANK0065,sanjay.malhotra@rediffmail.com,Sanjay,Malhotra,+91 9972907576,Operations,Loan Officer,EMP62757,HDFC612,Kochi,True,True,True,False,2025-08-09T18:49:06.713609,2025-04-19T18:49:06.713610
+BANK0066,vidhi.shah@outlook.com,Vidhi,Shah,+91 9043603811,Retail Banking,Teller,EMP40005,ICICI956,Coimbatore,False,True,True,True,2021-10-07T18:49:06.713615,2025-03-12T18:49:06.713616
+BANK0067,karan.luniya@yahoo.in,Karan,Luniya,+91 9279654147,Operations,Relationship Manager,EMP46458,SBI699,Indore,False,True,True,False,2025-07-18T18:49:06.713621,2025-06-24T18:49:06.713622
+BANK0068,shreya.jain@outlook.com,Shreya,Jain,+91 9499943797,Retail Banking,IT Admin,EMP31079,HDFC521,Visakhapatnam,True,True,True,False,2021-06-29T18:49:06.713627,2025-05-14T18:49:06.713628
+BANK0069,vidhi.naidu@gmail.com,Vidhi,Naidu,+91 9443876400,Treasury,Teller,EMP62976,ICICI944,Mumbai,False,True,True,False,2023-09-27T18:49:06.713633,2026-01-23T18:49:06.713634
+BANK0070,anjali.sethi@hotmail.com,Anjali,Sethi,+91 9293940940,Risk & Compliance,IT Admin,EMP16764,SBI373,Kochi,True,True,True,True,2023-08-07T18:49:06.713639,2025-02-27T18:49:06.713640
+BANK0071,harsh.gupta@gmail.com,Harsh,Gupta,+91 9042117961,Operations,Branch Manager,EMP50730,ICICI114,Kochi,True,True,True,True,2024-10-17T18:49:06.713645,2025-12-23T18:49:06.713647
+BANK0072,abhinav.gupta@yahoo.in,Abhinav,Gupta,+91 9249172995,IT Security,Compliance Officer,EMP45838,HDFC954,Visakhapatnam,True,True,True,True,2023-06-30T18:49:06.713652,2025-05-13T18:49:06.713653
+BANK0073,arjun.bansal@yahoo.in,Arjun,Bansal,+91 9078214937,Operations,Branch Manager,EMP19150,HDFC891,Indore,True,True,True,True,2021-06-15T18:49:06.713658,2026-02-18T18:49:06.713659
+BANK0074,riya.kapoor@hotmail.com,Riya,Kapoor,+91 9098575748,Risk & Compliance,IT Admin,EMP29476,HDFC651,Visakhapatnam,True,True,True,True,2022-12-17T18:49:06.713664,2025-05-17T18:49:06.713665
+BANK0075,tanvi.naidu@outlook.com,Tanvi,Naidu,+91 9642051937,IT Security,Relationship Manager,EMP40613,HDFC144,Lucknow,False,True,True,False,2022-02-06T18:49:06.713670,2025-08-08T18:49:06.713671
+BANK0076,tanvi.patel@rediffmail.com,Tanvi,Patel,+91 9826944487,IT Security,Credit Analyst,EMP53515,SBI995,Bhopal,True,True,True,False,2025-12-20T18:49:06.713676,2025-12-08T18:49:06.713678
+BANK0077,isha.patel@gmail.com,Isha,Patel,+91 9245570755,Treasury,Credit Analyst,EMP62098,ICICI182,Lucknow,False,True,True,False,2024-04-12T18:49:06.713684,2025-04-05T18:49:06.713685
+BANK0078,harsh.luniya@hotmail.com,Harsh,Luniya,+91 9941510328,Operations,Compliance Officer,EMP47667,SBI864,Bangalore,True,True,True,True,2021-10-16T18:49:06.713692,2025-04-01T18:49:06.713693
+BANK0079,neha.gandhi@yahoo.in,Neha,Gandhi,+91 9513885234,Retail Banking,Loan Officer,EMP17355,HDFC467,Kanpur,True,True,True,True,2024-09-07T18:49:06.713698,2025-05-24T18:49:06.713699
+BANK0080,isha.nair@yahoo.in,Isha,Nair,+91 9720598952,IT Security,IT Admin,EMP60140,ICICI799,Ahmedabad,True,True,True,True,2024-10-02T18:49:06.713704,2025-06-28T18:49:06.713705
+BANK0081,divya.naidu@outlook.com,Divya,Naidu,+91 9872445234,Treasury,Compliance Officer,EMP81643,SBI175,Bhopal,True,True,True,True,2022-06-22T18:49:06.713710,2025-07-17T18:49:06.713711
+BANK0082,divya.naidu@outlook.com,Divya,Naidu,+91 9661632653,Risk & Compliance,Teller,EMP41091,HDFC685,Kanpur,False,True,True,True,2022-02-18T18:49:06.713716,2025-09-21T18:49:06.713717
+BANK0083,akshat.mittal@outlook.com,Akshat,Mittal,+91 9885957706,Operations,IT Admin,EMP16428,ICICI863,Visakhapatnam,True,True,True,True,2022-08-26T18:49:06.713723,2025-08-23T18:49:06.713724
+BANK0084,kavya.iyer@hotmail.com,Kavya,Iyer,+91 9598473848,Operations,IT Admin,EMP27927,ICICI199,Delhi,True,True,True,False,2025-11-13T18:49:06.713728,2025-04-29T18:49:06.713730
+BANK0085,nikhil.agarwal@gmail.com,Nikhil,Agarwal,+91 9553851498,Operations,Relationship Manager,EMP33021,SBI235,Kochi,True,True,True,True,2021-05-26T18:49:06.713735,2025-11-27T18:49:06.713736
+BANK0086,divya.menon@outlook.com,Divya,Menon,+91 9425457816,Risk & Compliance,Teller,EMP28449,SBI980,Nagpur,False,True,True,True,2025-07-20T18:49:06.713741,2025-08-01T18:49:06.713743
+BANK0087,anushka.pillai@hotmail.com,Anushka,Pillai,+91 9971040347,Treasury,Compliance Officer,EMP98125,HDFC698,Nagpur,False,True,True,True,2025-06-13T18:49:06.713747,2025-03-11T18:49:06.713749
+BANK0088,kavya.menon@gmail.com,Kavya,Menon,+91 9085350823,Treasury,Credit Analyst,EMP39015,ICICI164,Bhopal,False,True,True,True,2022-06-01T18:49:06.713753,2025-07-25T18:49:06.713755
+BANK0089,rahul.agarwal@gmail.com,Rahul,Agarwal,+91 9850851122,Risk & Compliance,Teller,EMP22739,SBI650,Chennai,True,True,True,False,2023-12-23T18:49:06.713761,2025-03-13T18:49:06.713763
+BANK0090,ananya.jain@hotmail.com,Ananya,Jain,+91 9765684858,Operations,Teller,EMP74139,ICICI517,Jaipur,True,True,True,True,2024-11-02T18:49:06.713768,2025-07-07T18:49:06.713770
+BANK0091,sakshi.desai@outlook.com,Sakshi,Desai,+91 9959302863,IT Security,Compliance Officer,EMP57012,SBI507,Jaipur,True,True,True,True,2021-04-20T18:49:06.713775,2025-07-02T18:49:06.713776
+BANK0092,amit.mehta@hotmail.com,Amit,Mehta,+91 9816788532,Treasury,Branch Manager,EMP26505,ICICI310,Bangalore,False,True,True,True,2022-10-08T18:49:06.713781,2025-11-01T18:49:06.713783
+BANK0093,kavya.bhatia@yahoo.in,Kavya,Bhatia,+91 9010380581,Treasury,IT Admin,EMP28964,SBI653,Jaipur,True,True,True,True,2022-05-08T18:49:06.713788,2026-02-06T18:49:06.713789
+BANK0094,sneha.pareek@outlook.com,Sneha,Pareek,+91 9689034501,Treasury,Teller,EMP32838,HDFC153,Chennai,False,True,True,False,2023-02-08T18:49:06.713794,2025-12-23T18:49:06.713796
+BANK0095,priya.menon@rediffmail.com,Priya,Menon,+91 9478885632,IT Security,Teller,EMP69245,ICICI326,Chandigarh,True,True,True,True,2023-06-27T18:49:06.713801,2025-03-27T18:49:06.713802
+BANK0096,akshat.kumar@rediffmail.com,Akshat,Kumar,+91 9367213476,Operations,Teller,EMP74260,ICICI554,Bangalore,True,True,True,True,2022-08-24T18:49:06.713807,2025-12-06T18:49:06.713808
+BANK0097,priya.agarwal@outlook.com,Priya,Agarwal,+91 9094970119,IT Security,Credit Analyst,EMP52622,HDFC711,Vadodara,True,True,True,False,2023-03-22T18:49:06.713813,2025-04-16T18:49:06.713814
+BANK0098,manish.verma@gmail.com,Manish,Verma,+91 9138859907,Risk & Compliance,Relationship Manager,EMP39949,HDFC447,Bhopal,True,True,True,False,2021-12-18T18:49:06.713819,2026-01-02T18:49:06.713820
+BANK0099,meera.shah@outlook.com,Meera,Shah,+91 9560237832,Corporate Banking,Compliance Officer,EMP72163,SBI193,Bangalore,True,True,True,False,2025-07-07T18:49:06.713827,2025-08-13T18:49:06.713828
+BANK0100,sneha.kumar@hotmail.com,Sneha,Kumar,+91 9185387867,Treasury,Compliance Officer,EMP26021,HDFC462,Indore,False,True,True,True,2024-06-10T18:49:06.713833,2025-04-18T18:49:06.713834

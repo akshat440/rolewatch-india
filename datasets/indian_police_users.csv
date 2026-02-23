@@ -1,0 +1,81 @@
+user_id,email,first_name,last_name,phone,police_id,rank,department,station,station_location,state_cadre,weapon_authorized,cctns_access,icjs_certified,years_of_service,join_date
+POL0001,pooja.desai@gmail.com,Pooja,Desai,+91 9225532809,PID73975,Inspector,Cyber Crime,Delhi Police,Bhopal,Telangana,False,True,True,6,2018-08-12T18:49:06.780990
+POL0002,akshat.pillai@outlook.com,Akshat,Pillai,+91 9152446694,PID93507,ACP,Forensics,Delhi Police,Hyderabad,Telangana,True,True,False,23,2002-01-15T18:49:06.780995
+POL0003,arjun.malhotra@rediffmail.com,Arjun,Malhotra,+91 9161435518,PID95278,Head Constable,Control Room,Chennai Police,Vadodara,Delhi,False,True,True,21,1997-06-21T18:49:06.780999
+POL0004,isha.shah@hotmail.com,Isha,Shah,+91 9954138031,PID86096,Head Constable,Crime Branch,Hyderabad Police,Hyderabad,Tamil Nadu,True,True,False,28,2013-11-03T18:49:06.781003
+POL0005,harsh.luniya@outlook.com,Harsh,Luniya,+91 9510990649,PID12505,Inspector,Crime Branch,Bangalore Police,Ahmedabad,Delhi,True,True,True,22,2006-04-26T18:49:06.781008
+POL0006,nandini.bhatia@rediffmail.com,Nandini,Bhatia,+91 9875836445,PID77178,DCP,Traffic Police,Mumbai Police,Chennai,Karnataka,True,True,True,10,2012-04-23T18:49:06.781012
+POL0007,nandini.khanna@outlook.com,Nandini,Khanna,+91 9131902665,PID42264,DCP,Forensics,Delhi Police,Nagpur,Tamil Nadu,True,True,False,19,2010-06-29T18:49:06.781016
+POL0008,rahul.sharma@hotmail.com,Rahul,Sharma,+91 9249885989,PID36027,DCP,Traffic Police,Mumbai Police,Pune,Maharashtra,False,True,False,3,2013-06-17T18:49:06.781019
+POL0009,nandini.pareek@rediffmail.com,Nandini,Pareek,+91 9111936537,PID82635,DCP,Crime Branch,Mumbai Police,Mumbai,Telangana,False,True,False,13,2023-12-31T18:49:06.781023
+POL0010,tanvi.kulkarni@rediffmail.com,Tanvi,Kulkarni,+91 9016208154,PID98339,DCP,Forensics,Hyderabad Police,Vadodara,Tamil Nadu,False,True,True,4,2017-09-13T18:49:06.781027
+POL0011,abhinav.kapoor@yahoo.in,Abhinav,Kapoor,+91 9028478148,PID97945,Superintendent,Control Room,Bangalore Police,Indore,Tamil Nadu,True,True,True,23,2001-09-25T18:49:06.781031
+POL0012,riya.pillai@hotmail.com,Riya,Pillai,+91 9050691467,PID44016,Head Constable,Cyber Crime,Bangalore Police,Kolkata,Delhi,True,True,False,3,1997-04-16T18:49:06.781034
+POL0013,divya.chopra@gmail.com,Divya,Chopra,+91 9716955698,PID84725,Constable,Special Branch,Hyderabad Police,Kolkata,Telangana,False,True,False,18,2005-08-21T18:49:06.781038
+POL0014,manish.patel@rediffmail.com,Manish,Patel,+91 9188547150,PID47318,Head Constable,Cyber Crime,Delhi Police,Jaipur,Maharashtra,False,True,False,6,2015-05-18T18:49:06.781041
+POL0015,anjali.kumar@yahoo.in,Anjali,Kumar,+91 9052098104,PID94145,Inspector,Special Branch,Bangalore Police,Coimbatore,Karnataka,True,True,True,19,2010-03-04T18:49:06.781045
+POL0016,kavya.gupta@yahoo.in,Kavya,Gupta,+91 9311547739,PID19366,DCP,Traffic Police,Delhi Police,Jaipur,Maharashtra,True,True,True,15,2001-04-09T18:49:06.781048
+POL0017,preeti.sharma@yahoo.in,Preeti,Sharma,+91 9548900136,PID69205,DCP,Cyber Crime,Delhi Police,Kanpur,Tamil Nadu,True,True,False,13,2015-11-18T18:49:06.781052
+POL0018,anjali.bansal@outlook.com,Anjali,Bansal,+91 9976147881,PID14513,ACP,Crime Branch,Mumbai Police,Nagpur,Tamil Nadu,True,True,True,7,2014-06-25T18:49:06.781056
+POL0019,pooja.chopra@outlook.com,Pooja,Chopra,+91 9793667441,PID28647,Constable,Special Branch,Bangalore Police,Ahmedabad,Karnataka,False,True,True,10,2017-05-27T18:49:06.781060
+POL0020,anjali.joshi@hotmail.com,Anjali,Joshi,+91 9398897702,PID51772,Head Constable,Control Room,Bangalore Police,Surat,Delhi,True,True,True,25,2006-09-20T18:49:06.781063
+POL0021,vikram.gandhi@yahoo.in,Vikram,Gandhi,+91 9142261003,PID59946,Superintendent,Special Branch,Mumbai Police,Hyderabad,Delhi,True,True,False,20,1996-09-13T18:49:06.781067
+POL0022,isha.sharma@rediffmail.com,Isha,Sharma,+91 9327189153,PID35782,Head Constable,Traffic Police,Chennai Police,Chennai,Telangana,True,True,False,30,2010-09-03T18:49:06.781070
+POL0023,kritika.agarwal@hotmail.com,Kritika,Agarwal,+91 9973385942,PID89109,ACP,Forensics,Bangalore Police,Delhi,Telangana,True,True,False,21,2015-05-01T18:49:06.781074
+POL0024,neha.mittal@yahoo.in,Neha,Mittal,+91 9446969503,PID43723,Superintendent,Traffic Police,Mumbai Police,Pune,Tamil Nadu,False,True,True,8,1997-10-28T18:49:06.781077
+POL0025,aakash.joshi@rediffmail.com,Aakash,Joshi,+91 9580310557,PID55344,Constable,Special Branch,Hyderabad Police,Mumbai,Maharashtra,True,True,False,17,1996-07-22T18:49:06.781080
+POL0026,nandini.chopra@gmail.com,Nandini,Chopra,+91 9099438152,PID51035,Head Constable,Forensics,Chennai Police,Lucknow,Telangana,True,True,True,6,1999-06-10T18:49:06.781084
+POL0027,vikram.jain@yahoo.in,Vikram,Jain,+91 9889844104,PID15591,Head Constable,Crime Branch,Delhi Police,Jaipur,Telangana,False,True,True,9,2006-04-28T18:49:06.781087
+POL0028,gaurav.chopra@yahoo.in,Gaurav,Chopra,+91 9029371954,PID25372,Sub-Inspector,Cyber Crime,Chennai Police,Bhopal,Telangana,False,True,True,8,1999-06-04T18:49:06.781091
+POL0029,siddharth.verma@rediffmail.com,Siddharth,Verma,+91 9961969014,PID15694,Superintendent,Cyber Crime,Mumbai Police,Mumbai,Karnataka,False,True,True,26,2011-06-10T18:49:06.781095
+POL0030,nikhil.menon@outlook.com,Nikhil,Menon,+91 9518021431,PID88227,Sub-Inspector,Cyber Crime,Mumbai Police,Bhopal,Maharashtra,False,True,False,13,2020-03-22T18:49:06.781098
+POL0031,harsh.gupta@gmail.com,Harsh,Gupta,+91 9698658050,PID68479,Constable,Traffic Police,Hyderabad Police,Vadodara,Maharashtra,False,True,True,21,2005-12-06T18:49:06.781101
+POL0032,kavya.chopra@yahoo.in,Kavya,Chopra,+91 9913408402,PID16195,Head Constable,Crime Branch,Hyderabad Police,Nagpur,Telangana,False,True,True,21,2019-05-26T18:49:06.781105
+POL0033,aditya.nair@rediffmail.com,Aditya,Nair,+91 9812712181,PID73845,Superintendent,Traffic Police,Chennai Police,Indore,Tamil Nadu,False,True,True,3,2004-12-13T18:49:06.781108
+POL0034,isha.gupta@hotmail.com,Isha,Gupta,+91 9042529587,PID86424,DCP,Forensics,Bangalore Police,Nagpur,Maharashtra,True,True,True,30,2024-12-24T18:49:06.781113
+POL0035,arjun.chopra@gmail.com,Arjun,Chopra,+91 9591144842,PID31380,Superintendent,Crime Branch,Hyderabad Police,Indore,Tamil Nadu,False,True,False,19,2020-06-18T18:49:06.781116
+POL0036,rohan.singh@yahoo.in,Rohan,Singh,+91 9052441710,PID94524,ACP,Forensics,Hyderabad Police,Surat,Telangana,False,True,True,27,2016-01-18T18:49:06.781120
+POL0037,rohan.singh@outlook.com,Rohan,Singh,+91 9462118470,PID18058,Inspector,Control Room,Mumbai Police,Surat,Karnataka,False,True,False,20,1998-02-10T18:49:06.781123
+POL0038,vidhi.pillai@outlook.com,Vidhi,Pillai,+91 9871769049,PID66833,ACP,Traffic Police,Chennai Police,Mumbai,Maharashtra,False,True,False,24,2023-07-16T18:49:06.781127
+POL0039,anjali.agarwal@outlook.com,Anjali,Agarwal,+91 9670002767,PID52995,Superintendent,Crime Branch,Mumbai Police,Delhi,Delhi,True,True,True,16,2004-04-07T18:49:06.781130
+POL0040,anjali.verma@outlook.com,Anjali,Verma,+91 9132505114,PID98910,Inspector,Control Room,Mumbai Police,Jaipur,Delhi,True,True,False,11,2012-02-01T18:49:06.781134
+POL0041,priya.gupta@outlook.com,Priya,Gupta,+91 9036415194,PID82788,Constable,Cyber Crime,Chennai Police,Bangalore,Maharashtra,False,True,True,16,2004-12-19T18:49:06.781138
+POL0042,mohit.verma@outlook.com,Mohit,Verma,+91 9571787597,PID59438,Superintendent,Traffic Police,Mumbai Police,Vadodara,Tamil Nadu,False,True,True,17,2005-12-07T18:49:06.781142
+POL0043,sakshi.iyer@yahoo.in,Sakshi,Iyer,+91 9670076610,PID11655,Superintendent,Forensics,Chennai Police,Surat,Tamil Nadu,True,True,True,24,2009-05-05T18:49:06.781145
+POL0044,riya.luniya@gmail.com,Riya,Luniya,+91 9947609073,PID41811,Sub-Inspector,Special Branch,Hyderabad Police,Vadodara,Delhi,True,True,False,6,2017-04-01T18:49:06.781148
+POL0045,harsh.nair@hotmail.com,Harsh,Nair,+91 9636575710,PID40146,Head Constable,Traffic Police,Bangalore Police,Mumbai,Tamil Nadu,True,True,False,5,2002-12-01T18:49:06.781153
+POL0046,rahul.patel@outlook.com,Rahul,Patel,+91 9523674430,PID82529,Sub-Inspector,Special Branch,Mumbai Police,Delhi,Karnataka,False,True,False,19,2016-07-10T18:49:06.781156
+POL0047,priya.bansal@yahoo.in,Priya,Bansal,+91 9281638921,PID55198,Superintendent,Cyber Crime,Mumbai Police,Coimbatore,Telangana,True,True,True,1,2011-03-19T18:49:06.781160
+POL0048,rahul.kulkarni@hotmail.com,Rahul,Kulkarni,+91 9381820812,PID30254,Inspector,Forensics,Delhi Police,Kanpur,Karnataka,False,True,True,18,2009-02-18T18:49:06.781164
+POL0049,sanjay.jain@outlook.com,Sanjay,Jain,+91 9320506080,PID31107,Constable,Control Room,Chennai Police,Bangalore,Maharashtra,True,True,True,17,2004-07-27T18:49:06.781169
+POL0050,tanvi.luniya@rediffmail.com,Tanvi,Luniya,+91 9271728410,PID36798,Constable,Traffic Police,Hyderabad Police,Lucknow,Karnataka,False,True,True,4,2011-08-09T18:49:06.781173
+POL0051,anjali.rao@outlook.com,Anjali,Rao,+91 9254291493,PID89990,Superintendent,Special Branch,Bangalore Police,Nagpur,Maharashtra,False,True,True,20,2013-08-31T18:49:06.781177
+POL0052,nandini.desai@outlook.com,Nandini,Desai,+91 9288401342,PID42874,Head Constable,Crime Branch,Bangalore Police,Vadodara,Delhi,False,True,True,5,2003-04-20T18:49:06.781181
+POL0053,shreya.luniya@outlook.com,Shreya,Luniya,+91 9695499347,PID76597,DCP,Special Branch,Delhi Police,Bhopal,Karnataka,True,True,True,15,2024-03-22T18:49:06.781185
+POL0054,karan.singh@yahoo.in,Karan,Singh,+91 9280984661,PID98372,DCP,Forensics,Bangalore Police,Ahmedabad,Maharashtra,False,True,True,30,2009-04-19T18:49:06.781189
+POL0055,vikram.pareek@rediffmail.com,Vikram,Pareek,+91 9863832168,PID46686,Superintendent,Crime Branch,Chennai Police,Chandigarh,Telangana,True,True,False,28,1998-01-21T18:49:06.781192
+POL0056,siddharth.shah@yahoo.in,Siddharth,Shah,+91 9678693911,PID60903,Constable,Forensics,Bangalore Police,Lucknow,Karnataka,True,True,False,20,2021-07-03T18:49:06.781196
+POL0057,kunal.patel@hotmail.com,Kunal,Patel,+91 9385955858,PID64533,Inspector,Cyber Crime,Mumbai Police,Mumbai,Telangana,False,True,True,23,1999-01-13T18:49:06.781200
+POL0058,nikhil.kulkarni@rediffmail.com,Nikhil,Kulkarni,+91 9764170627,PID24394,Inspector,Control Room,Delhi Police,Pune,Tamil Nadu,True,True,True,4,2024-04-10T18:49:06.781204
+POL0059,shreya.mittal@gmail.com,Shreya,Mittal,+91 9644020751,PID69072,ACP,Forensics,Delhi Police,Chandigarh,Telangana,True,True,False,21,2002-08-10T18:49:06.781208
+POL0060,harsh.pareek@rediffmail.com,Harsh,Pareek,+91 9966583438,PID37275,Sub-Inspector,Crime Branch,Delhi Police,Kolkata,Delhi,False,True,False,9,2013-04-01T18:49:06.781211
+POL0061,ananya.chopra@hotmail.com,Ananya,Chopra,+91 9955619134,PID29556,Superintendent,Cyber Crime,Bangalore Police,Kochi,Karnataka,True,True,True,3,2007-12-22T18:49:06.781215
+POL0062,neha.chopra@hotmail.com,Neha,Chopra,+91 9154098333,PID77932,Superintendent,Cyber Crime,Mumbai Police,Delhi,Tamil Nadu,True,True,True,28,2020-11-03T18:49:06.781219
+POL0063,aakash.iyer@hotmail.com,Aakash,Iyer,+91 9365161325,PID30685,DCP,Crime Branch,Bangalore Police,Vadodara,Telangana,True,True,False,13,2017-05-16T18:49:06.781224
+POL0064,arjun.agarwal@yahoo.in,Arjun,Agarwal,+91 9342321155,PID89995,Inspector,Traffic Police,Delhi Police,Bangalore,Maharashtra,False,True,False,25,2005-05-15T18:49:06.781229
+POL0065,amit.kulkarni@hotmail.com,Amit,Kulkarni,+91 9962604679,PID93145,Constable,Forensics,Mumbai Police,Pune,Delhi,False,True,False,19,1999-10-16T18:49:06.781233
+POL0066,mohit.sethi@gmail.com,Mohit,Sethi,+91 9810919138,PID51883,ACP,Control Room,Mumbai Police,Mumbai,Karnataka,False,True,False,13,2007-09-21T18:49:06.781237
+POL0067,vikram.rao@yahoo.in,Vikram,Rao,+91 9383099905,PID90108,Superintendent,Cyber Crime,Delhi Police,Hyderabad,Delhi,True,True,False,4,2009-04-21T18:49:06.781241
+POL0068,meera.joshi@hotmail.com,Meera,Joshi,+91 9881134230,PID79109,Sub-Inspector,Special Branch,Bangalore Police,Bhopal,Karnataka,True,True,True,4,2021-10-06T18:49:06.781245
+POL0069,rajesh.agarwal@gmail.com,Rajesh,Agarwal,+91 9831099434,PID21465,Constable,Crime Branch,Chennai Police,Bhopal,Karnataka,True,True,True,25,1998-04-08T18:49:06.781249
+POL0070,kritika.singh@yahoo.in,Kritika,Singh,+91 9396767693,PID24682,ACP,Forensics,Delhi Police,Vadodara,Telangana,False,True,True,26,2002-04-26T18:49:06.781253
+POL0071,tanvi.jain@rediffmail.com,Tanvi,Jain,+91 9888700372,PID78808,ACP,Traffic Police,Bangalore Police,Mumbai,Telangana,False,True,False,26,2004-11-05T18:49:06.781256
+POL0072,mohit.mehta@outlook.com,Mohit,Mehta,+91 9497840771,PID27976,ACP,Control Room,Delhi Police,Bhopal,Telangana,False,True,True,28,2004-01-08T18:49:06.781260
+POL0073,gaurav.jain@yahoo.in,Gaurav,Jain,+91 9492283004,PID45769,DCP,Forensics,Mumbai Police,Bhopal,Karnataka,True,True,True,19,2010-01-18T18:49:06.781264
+POL0074,sakshi.gandhi@hotmail.com,Sakshi,Gandhi,+91 9381794555,PID88116,Head Constable,Control Room,Hyderabad Police,Kolkata,Maharashtra,False,True,False,4,2003-08-10T18:49:06.781268
+POL0075,rahul.sharma@rediffmail.com,Rahul,Sharma,+91 9284717078,PID74038,Superintendent,Cyber Crime,Mumbai Police,Indore,Tamil Nadu,False,True,False,24,2006-01-23T18:49:06.781272
+POL0076,kritika.chopra@rediffmail.com,Kritika,Chopra,+91 9314757501,PID52363,ACP,Forensics,Delhi Police,Vadodara,Maharashtra,True,True,False,9,1997-01-04T18:49:06.781275
+POL0077,abhinav.khanna@yahoo.in,Abhinav,Khanna,+91 9716871246,PID30283,ACP,Crime Branch,Delhi Police,Kolkata,Tamil Nadu,False,True,False,1,2005-07-23T18:49:06.781279
+POL0078,siddharth.menon@hotmail.com,Siddharth,Menon,+91 9178286381,PID67476,Head Constable,Traffic Police,Bangalore Police,Kolkata,Delhi,True,True,False,24,1998-06-06T18:49:06.781283
+POL0079,sakshi.menon@yahoo.in,Sakshi,Menon,+91 9333793221,PID60320,ACP,Control Room,Delhi Police,Kolkata,Telangana,True,True,False,16,2001-05-12T18:49:06.781287
+POL0080,riya.pillai@rediffmail.com,Riya,Pillai,+91 9528820869,PID79213,ACP,Special Branch,Mumbai Police,Nagpur,Maharashtra,False,True,False,2,2011-09-01T18:49:06.781291

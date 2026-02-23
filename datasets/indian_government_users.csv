@@ -1,0 +1,121 @@
+user_id,email,first_name,last_name,phone,ministry,grade,cadre,designation,office_location,digidocker_id,rti_officer,meity_certified,join_date
+GOV0001,tanvi.agarwal@hotmail.com,Tanvi,Agarwal,+91 9943038826,Health,Group B,Central Services,Director,Hyderabad,DD458693,False,False,2016-07-11T18:49:06.800103
+GOV0002,gaurav.chopra@outlook.com,Gaurav,Chopra,+91 9765684992,Home Affairs,Group A,Central Services,Deputy Secretary,Bangalore,DD690099,True,False,2019-08-16T18:49:06.800108
+GOV0003,pooja.bhatia@yahoo.in,Pooja,Bhatia,+91 9264834218,IT & Electronics,Group B,IAS,Director,Hyderabad,DD641365,True,False,2013-04-07T18:49:06.800113
+GOV0004,kavya.chopra@hotmail.com,Kavya,Chopra,+91 9897093323,Home Affairs,Group B,IPS,Under Secretary,Mumbai,DD898564,True,True,2018-03-10T18:49:06.800116
+GOV0005,shreya.jain@outlook.com,Shreya,Jain,+91 9838706721,Health,Group D,IPS,Deputy Secretary,Kolkata,DD743406,False,False,2009-02-10T18:49:06.800120
+GOV0006,tanvi.bhatia@gov.in,Tanvi,Bhatia,+91 9942040561,Home Affairs,Group C,Central Services,Deputy Secretary,Bangalore,DD832201,False,False,2013-01-08T18:49:06.800123
+GOV0007,rajesh.kapoor@yahoo.in,Rajesh,Kapoor,+91 9198881002,Health,Group B,State Services,Joint Secretary,Bangalore,DD382166,False,False,2008-10-16T18:49:06.800127
+GOV0008,divya.mittal@hotmail.com,Divya,Mittal,+91 9662304176,IT & Electronics,Group A,Central Services,Director,Hyderabad,DD973350,True,False,2024-03-01T18:49:06.800131
+GOV0009,aditya.mehta@gov.in,Aditya,Mehta,+91 9573510221,Finance,Group D,Central Services,Director,Delhi,DD505712,False,True,2008-08-31T18:49:06.800134
+GOV0010,akshat.menon@hotmail.com,Akshat,Menon,+91 9097122099,Finance,Group B,Central Services,Additional Secretary,Delhi,DD941317,True,True,2006-12-10T18:49:06.800140
+GOV0011,sneha.bhatia@gov.in,Sneha,Bhatia,+91 9515095959,IT & Electronics,Group A,IPS,Deputy Secretary,Hyderabad,DD280259,False,True,2014-11-01T18:49:06.800143
+GOV0012,anushka.naidu@outlook.com,Anushka,Naidu,+91 9693077451,Education,Group D,State Services,Joint Secretary,Kolkata,DD331999,False,False,2007-05-15T18:49:06.800147
+GOV0013,riya.bansal@gov.in,Riya,Bansal,+91 9467394433,Home Affairs,Group D,Central Services,Deputy Secretary,Hyderabad,DD632617,True,False,2017-07-22T18:49:06.800151
+GOV0014,simran.patel@outlook.com,Simran,Patel,+91 9018703627,Health,Group D,IFS,Under Secretary,Kolkata,DD525628,True,False,2021-12-14T18:49:06.800154
+GOV0015,meera.bhatia@gov.in,Meera,Bhatia,+91 9520996643,Rural Development,Group B,Central Services,Deputy Secretary,Mumbai,DD133638,True,True,2006-11-04T18:49:06.800158
+GOV0016,aakash.tomar@gov.in,Aakash,Tomar,+91 9376195041,Home Affairs,Group C,State Services,Under Secretary,Bangalore,DD765576,True,False,2018-10-02T18:49:06.800161
+GOV0017,kritika.mittal@rediffmail.com,Kritika,Mittal,+91 9347330324,IT & Electronics,Group A,Central Services,Deputy Secretary,Kolkata,DD403361,True,True,2024-01-10T18:49:06.800164
+GOV0018,akshat.rao@yahoo.in,Akshat,Rao,+91 9742373522,IT & Electronics,Group C,IPS,Joint Secretary,Mumbai,DD301809,True,True,2018-10-19T18:49:06.800168
+GOV0019,akshat.shah@hotmail.com,Akshat,Shah,+91 9765938800,Rural Development,Group C,IFS,Joint Secretary,Mumbai,DD209806,True,False,2012-08-07T18:49:06.800172
+GOV0020,anjali.jain@outlook.com,Anjali,Jain,+91 9791161332,IT & Electronics,Group D,IFS,Deputy Secretary,Hyderabad,DD381841,True,True,2008-05-18T18:49:06.800175
+GOV0021,tanvi.jain@outlook.com,Tanvi,Jain,+91 9954584165,Rural Development,Group D,Central Services,Director,Kolkata,DD498314,True,True,2013-01-20T18:49:06.800180
+GOV0022,isha.patel@hotmail.com,Isha,Patel,+91 9037283331,Education,Group C,Central Services,Under Secretary,Bangalore,DD246960,False,True,2021-01-27T18:49:06.800183
+GOV0023,shreya.patel@yahoo.in,Shreya,Patel,+91 9176019656,IT & Electronics,Group D,Central Services,Additional Secretary,Hyderabad,DD627383,False,False,2017-03-19T18:49:06.800187
+GOV0024,rahul.patel@hotmail.com,Rahul,Patel,+91 9796599425,Home Affairs,Group A,State Services,Additional Secretary,Kolkata,DD443894,True,False,2024-04-23T18:49:06.800191
+GOV0025,anjali.sethi@hotmail.com,Anjali,Sethi,+91 9682852910,Home Affairs,Group B,Central Services,Joint Secretary,Kolkata,DD605366,False,True,2015-07-05T18:49:06.800194
+GOV0026,isha.singh@gov.in,Isha,Singh,+91 9516445065,Education,Group D,Central Services,Deputy Secretary,Delhi,DD551736,True,False,2013-02-04T18:49:06.800198
+GOV0027,anushka.agarwal@hotmail.com,Anushka,Agarwal,+91 9065221283,Rural Development,Group B,Central Services,Additional Secretary,Hyderabad,DD801196,True,True,2006-02-27T18:49:06.800201
+GOV0028,anjali.agarwal@gmail.com,Anjali,Agarwal,+91 9625941956,Health,Group B,State Services,Joint Secretary,Bangalore,DD942634,False,True,2018-04-08T18:49:06.800205
+GOV0029,anushka.gandhi@hotmail.com,Anushka,Gandhi,+91 9663301016,IT & Electronics,Group D,Central Services,Deputy Secretary,Mumbai,DD968210,True,True,2011-04-12T18:49:06.800208
+GOV0030,amit.gandhi@yahoo.in,Amit,Gandhi,+91 9446206069,Education,Group C,Central Services,Joint Secretary,Delhi,DD609035,False,True,2007-04-11T18:49:06.800212
+GOV0031,anushka.kumar@gov.in,Anushka,Kumar,+91 9820691818,IT & Electronics,Group A,Central Services,Additional Secretary,Hyderabad,DD581563,False,False,2016-02-12T18:49:06.800215
+GOV0032,vikram.sharma@gov.in,Vikram,Sharma,+91 9957103634,Home Affairs,Group B,Central Services,Deputy Secretary,Delhi,DD729985,True,False,2023-04-05T18:49:06.800219
+GOV0033,sakshi.pareek@outlook.com,Sakshi,Pareek,+91 9039484662,Rural Development,Group B,Central Services,Director,Kolkata,DD254561,True,True,2019-08-09T18:49:06.800222
+GOV0034,ananya.menon@gmail.com,Ananya,Menon,+91 9261560423,Home Affairs,Group C,IAS,Joint Secretary,Delhi,DD150390,True,True,2010-12-06T18:49:06.800226
+GOV0035,kritika.desai@yahoo.in,Kritika,Desai,+91 9562607511,Health,Group D,IFS,Deputy Secretary,Delhi,DD393222,False,True,2011-12-02T18:49:06.800230
+GOV0036,vikram.chopra@gov.in,Vikram,Chopra,+91 9528027979,Health,Group A,Central Services,Deputy Secretary,Bangalore,DD148876,False,False,2019-07-21T18:49:06.800233
+GOV0037,meera.bhatia@hotmail.com,Meera,Bhatia,+91 9420596849,Home Affairs,Group B,Central Services,Under Secretary,Kolkata,DD702693,True,False,2020-11-27T18:49:06.800237
+GOV0038,nikhil.verma@hotmail.com,Nikhil,Verma,+91 9085102222,Education,Group B,State Services,Additional Secretary,Hyderabad,DD495852,True,True,2023-01-12T18:49:06.800240
+GOV0039,harsh.kumar@yahoo.in,Harsh,Kumar,+91 9364833194,Education,Group B,IAS,Deputy Secretary,Mumbai,DD140539,True,True,2023-08-12T18:49:06.800244
+GOV0040,neha.bansal@rediffmail.com,Neha,Bansal,+91 9875375387,Health,Group D,Central Services,Additional Secretary,Delhi,DD441112,True,True,2011-12-10T18:49:06.800248
+GOV0041,sneha.malhotra@rediffmail.com,Sneha,Malhotra,+91 9654058097,IT & Electronics,Group A,Central Services,Director,Mumbai,DD348095,False,True,2012-07-18T18:49:06.800251
+GOV0042,gaurav.menon@rediffmail.com,Gaurav,Menon,+91 9249958987,Rural Development,Group C,Central Services,Under Secretary,Mumbai,DD257906,True,True,2008-09-15T18:49:06.800254
+GOV0043,sneha.reddy@gov.in,Sneha,Reddy,+91 9676517382,Home Affairs,Group B,State Services,Director,Delhi,DD334068,True,True,2016-02-18T18:49:06.800258
+GOV0044,vidhi.joshi@hotmail.com,Vidhi,Joshi,+91 9215454170,Home Affairs,Group C,Central Services,Deputy Secretary,Bangalore,DD926897,True,True,2018-01-03T18:49:06.800261
+GOV0045,kritika.kapoor@yahoo.in,Kritika,Kapoor,+91 9910763709,Health,Group B,IAS,Deputy Secretary,Delhi,DD750518,True,False,2024-07-05T18:49:06.800265
+GOV0046,sakshi.menon@gov.in,Sakshi,Menon,+91 9552044371,Finance,Group D,Central Services,Under Secretary,Kolkata,DD420832,True,False,2023-12-15T18:49:06.800269
+GOV0047,neha.naidu@yahoo.in,Neha,Naidu,+91 9485984759,Health,Group D,Central Services,Director,Mumbai,DD207956,False,True,2007-03-23T18:49:06.800272
+GOV0048,karan.reddy@gov.in,Karan,Reddy,+91 9593574768,Finance,Group A,State Services,Deputy Secretary,Mumbai,DD826036,False,False,2021-04-16T18:49:06.800275
+GOV0049,preeti.iyer@yahoo.in,Preeti,Iyer,+91 9420068176,Education,Group B,IPS,Additional Secretary,Delhi,DD173411,True,True,2009-11-22T18:49:06.800279
+GOV0050,vidhi.mittal@gov.in,Vidhi,Mittal,+91 9966999795,Education,Group B,Central Services,Under Secretary,Mumbai,DD969792,True,False,2019-04-12T18:49:06.800284
+GOV0051,tanvi.joshi@gov.in,Tanvi,Joshi,+91 9016482529,Home Affairs,Group D,IPS,Additional Secretary,Delhi,DD493978,False,True,2011-08-24T18:49:06.800288
+GOV0052,karan.naidu@rediffmail.com,Karan,Naidu,+91 9182052596,Home Affairs,Group D,Central Services,Director,Bangalore,DD463051,True,True,2010-10-30T18:49:06.800291
+GOV0053,priya.pareek@hotmail.com,Priya,Pareek,+91 9334336458,Education,Group A,Central Services,Additional Secretary,Delhi,DD714662,False,False,2024-01-04T18:49:06.800295
+GOV0054,rohan.jain@hotmail.com,Rohan,Jain,+91 9894496445,Finance,Group D,Central Services,Additional Secretary,Mumbai,DD206880,True,False,2007-04-01T18:49:06.800298
+GOV0055,nandini.pareek@hotmail.com,Nandini,Pareek,+91 9627905539,IT & Electronics,Group B,Central Services,Joint Secretary,Bangalore,DD561975,False,True,2024-09-22T18:49:06.800302
+GOV0056,vidhi.gupta@gov.in,Vidhi,Gupta,+91 9077275400,Health,Group C,Central Services,Under Secretary,Hyderabad,DD960340,True,True,2015-09-23T18:49:06.800305
+GOV0057,rahul.iyer@hotmail.com,Rahul,Iyer,+91 9175018608,IT & Electronics,Group C,Central Services,Deputy Secretary,Hyderabad,DD324721,False,False,2008-08-21T18:49:06.800309
+GOV0058,siddharth.malhotra@yahoo.in,Siddharth,Malhotra,+91 9088083731,Finance,Group B,Central Services,Director,Bangalore,DD952363,False,True,2012-09-22T18:49:06.800312
+GOV0059,vidhi.jain@rediffmail.com,Vidhi,Jain,+91 9863547571,Health,Group C,Central Services,Deputy Secretary,Kolkata,DD448365,True,True,2022-05-07T18:49:06.800316
+GOV0060,kritika.menon@outlook.com,Kritika,Menon,+91 9849954773,Finance,Group A,Central Services,Joint Secretary,Bangalore,DD406918,True,True,2017-01-10T18:49:06.800320
+GOV0061,akshat.agarwal@rediffmail.com,Akshat,Agarwal,+91 9671148559,Rural Development,Group B,Central Services,Deputy Secretary,Mumbai,DD399550,True,False,2019-08-26T18:49:06.800324
+GOV0062,anushka.nair@gov.in,Anushka,Nair,+91 9948666436,Education,Group C,Central Services,Under Secretary,Bangalore,DD273364,True,True,2012-08-07T18:49:06.800327
+GOV0063,sneha.sharma@gmail.com,Sneha,Sharma,+91 9952055218,Education,Group D,Central Services,Under Secretary,Hyderabad,DD380054,True,True,2020-02-26T18:49:06.800330
+GOV0064,shreya.tomar@hotmail.com,Shreya,Tomar,+91 9374907907,IT & Electronics,Group A,State Services,Additional Secretary,Mumbai,DD334293,True,False,2022-08-11T18:49:06.800334
+GOV0065,isha.pareek@gov.in,Isha,Pareek,+91 9337067913,Finance,Group B,State Services,Under Secretary,Hyderabad,DD714462,True,False,2019-11-05T18:49:06.800338
+GOV0066,divya.tomar@hotmail.com,Divya,Tomar,+91 9477431781,Education,Group B,Central Services,Deputy Secretary,Delhi,DD786558,True,True,2008-03-18T18:49:06.800342
+GOV0067,siddharth.gupta@outlook.com,Siddharth,Gupta,+91 9399251926,Health,Group D,Central Services,Joint Secretary,Kolkata,DD851825,True,True,2021-04-11T18:49:06.800345
+GOV0068,abhinav.pareek@gmail.com,Abhinav,Pareek,+91 9277405193,IT & Electronics,Group D,State Services,Under Secretary,Hyderabad,DD279907,False,True,2015-10-24T18:49:06.800349
+GOV0069,siddharth.malhotra@hotmail.com,Siddharth,Malhotra,+91 9918072296,Home Affairs,Group B,IPS,Additional Secretary,Delhi,DD906862,False,False,2015-09-07T18:49:06.800353
+GOV0070,meera.chopra@hotmail.com,Meera,Chopra,+91 9369459911,Home Affairs,Group B,Central Services,Under Secretary,Hyderabad,DD412288,False,False,2019-10-30T18:49:06.800356
+GOV0071,vidhi.bhatia@gov.in,Vidhi,Bhatia,+91 9250717253,Rural Development,Group A,Central Services,Additional Secretary,Mumbai,DD240195,False,True,2021-12-20T18:49:06.800360
+GOV0072,sneha.sharma@gov.in,Sneha,Sharma,+91 9662769773,Education,Group B,Central Services,Under Secretary,Bangalore,DD385711,True,False,2011-08-29T18:49:06.800363
+GOV0073,manish.desai@gov.in,Manish,Desai,+91 9359104154,Finance,Group A,Central Services,Additional Secretary,Bangalore,DD431039,False,True,2021-01-17T18:49:06.800366
+GOV0074,harsh.desai@gov.in,Harsh,Desai,+91 9249842294,Rural Development,Group A,Central Services,Under Secretary,Delhi,DD956834,False,False,2013-04-08T18:49:06.800370
+GOV0075,manish.sharma@outlook.com,Manish,Sharma,+91 9553781743,Rural Development,Group B,IAS,Director,Bangalore,DD785106,True,True,2008-10-19T18:49:06.800373
+GOV0076,priya.rao@gov.in,Priya,Rao,+91 9751163545,Education,Group C,Central Services,Additional Secretary,Mumbai,DD537361,False,False,2023-10-22T18:49:06.800377
+GOV0077,sneha.bansal@yahoo.in,Sneha,Bansal,+91 9388710475,Health,Group A,State Services,Deputy Secretary,Delhi,DD386164,False,True,2015-02-11T18:49:06.800380
+GOV0078,anushka.sharma@gov.in,Anushka,Sharma,+91 9323884608,Rural Development,Group B,Central Services,Director,Bangalore,DD833495,True,False,2022-07-21T18:49:06.800384
+GOV0079,amit.tomar@yahoo.in,Amit,Tomar,+91 9196406030,IT & Electronics,Group C,State Services,Deputy Secretary,Bangalore,DD251567,True,True,2013-10-06T18:49:06.800387
+GOV0080,amit.mehta@outlook.com,Amit,Mehta,+91 9632256527,Education,Group A,Central Services,Joint Secretary,Hyderabad,DD400537,False,True,2006-07-27T18:49:06.800391
+GOV0081,kavya.mehta@gov.in,Kavya,Mehta,+91 9674290436,Finance,Group C,Central Services,Director,Mumbai,DD268244,False,True,2012-01-13T18:49:06.800394
+GOV0082,divya.agarwal@yahoo.in,Divya,Agarwal,+91 9398610535,Home Affairs,Group D,Central Services,Director,Kolkata,DD318728,False,True,2019-04-06T18:49:06.800398
+GOV0083,kritika.rao@hotmail.com,Kritika,Rao,+91 9971681878,Rural Development,Group D,IAS,Under Secretary,Bangalore,DD582638,False,False,2007-08-21T18:49:06.800402
+GOV0084,neha.shah@hotmail.com,Neha,Shah,+91 9735221985,Rural Development,Group C,State Services,Deputy Secretary,Kolkata,DD647654,True,False,2007-03-08T18:49:06.800406
+GOV0085,vidhi.verma@gov.in,Vidhi,Verma,+91 9922366984,Health,Group D,IPS,Additional Secretary,Bangalore,DD653752,True,False,2016-09-12T18:49:06.800409
+GOV0086,isha.agarwal@hotmail.com,Isha,Agarwal,+91 9816187427,Education,Group B,State Services,Deputy Secretary,Hyderabad,DD989462,False,True,2007-06-07T18:49:06.800413
+GOV0087,kunal.malhotra@yahoo.in,Kunal,Malhotra,+91 9724557119,Home Affairs,Group B,IFS,Joint Secretary,Bangalore,DD205499,True,True,2006-12-05T18:49:06.800417
+GOV0088,siddharth.gandhi@gmail.com,Siddharth,Gandhi,+91 9360328084,Health,Group A,IFS,Joint Secretary,Hyderabad,DD461607,True,False,2015-11-26T18:49:06.800421
+GOV0089,rohan.chopra@rediffmail.com,Rohan,Chopra,+91 9821993328,Education,Group A,State Services,Joint Secretary,Bangalore,DD295980,False,False,2023-09-02T18:49:06.800424
+GOV0090,shreya.gandhi@outlook.com,Shreya,Gandhi,+91 9918892899,Finance,Group C,Central Services,Additional Secretary,Bangalore,DD917265,True,False,2007-06-07T18:49:06.800428
+GOV0091,neha.shah@gov.in,Neha,Shah,+91 9792868258,Education,Group D,Central Services,Joint Secretary,Hyderabad,DD454167,False,False,2019-11-26T18:49:06.800432
+GOV0092,tanvi.mittal@hotmail.com,Tanvi,Mittal,+91 9263963917,Home Affairs,Group A,IAS,Additional Secretary,Bangalore,DD134673,True,False,2015-05-23T18:49:06.800436
+GOV0093,pooja.bansal@gmail.com,Pooja,Bansal,+91 9883584721,Home Affairs,Group C,IAS,Under Secretary,Bangalore,DD670822,True,False,2009-01-23T18:49:06.800439
+GOV0094,sakshi.singh@gov.in,Sakshi,Singh,+91 9212722673,IT & Electronics,Group C,Central Services,Joint Secretary,Delhi,DD539930,True,False,2023-11-14T18:49:06.800443
+GOV0095,abhinav.menon@gmail.com,Abhinav,Menon,+91 9377512677,Finance,Group D,Central Services,Under Secretary,Bangalore,DD562580,False,True,2006-03-30T18:49:06.800446
+GOV0096,nikhil.joshi@gov.in,Nikhil,Joshi,+91 9617616124,Education,Group C,IPS,Joint Secretary,Delhi,DD104673,True,True,2016-10-07T18:49:06.800449
+GOV0097,aakash.pillai@yahoo.in,Aakash,Pillai,+91 9829050304,Health,Group C,Central Services,Joint Secretary,Bangalore,DD844862,False,True,2023-11-15T18:49:06.800452
+GOV0098,meera.bansal@rediffmail.com,Meera,Bansal,+91 9874173264,Finance,Group B,Central Services,Deputy Secretary,Kolkata,DD687416,False,True,2010-08-31T18:49:06.800455
+GOV0099,riya.reddy@rediffmail.com,Riya,Reddy,+91 9221132891,Education,Group A,IPS,Director,Mumbai,DD962058,True,True,2018-10-23T18:49:06.800459
+GOV0100,amit.pillai@yahoo.in,Amit,Pillai,+91 9617495514,Finance,Group A,IAS,Additional Secretary,Bangalore,DD113757,True,True,2015-09-08T18:49:06.800462
+GOV0101,divya.menon@rediffmail.com,Divya,Menon,+91 9998280964,Finance,Group C,Central Services,Under Secretary,Hyderabad,DD375398,False,True,2018-02-05T18:49:06.800465
+GOV0102,abhinav.pareek@rediffmail.com,Abhinav,Pareek,+91 9359645685,Health,Group C,IFS,Deputy Secretary,Bangalore,DD882848,False,True,2018-09-06T18:49:06.800468
+GOV0103,tanvi.sharma@gov.in,Tanvi,Sharma,+91 9234278966,Rural Development,Group B,Central Services,Joint Secretary,Bangalore,DD312893,True,False,2019-09-04T18:49:06.800472
+GOV0104,shreya.singh@rediffmail.com,Shreya,Singh,+91 9954151710,Rural Development,Group D,Central Services,Joint Secretary,Delhi,DD795884,False,True,2006-04-05T18:49:06.800475
+GOV0105,preeti.bhatia@hotmail.com,Preeti,Bhatia,+91 9322098402,Education,Group B,IAS,Director,Delhi,DD750011,False,True,2024-04-17T18:49:06.800478
+GOV0106,aditya.malhotra@yahoo.in,Aditya,Malhotra,+91 9138841039,Education,Group D,IFS,Additional Secretary,Bangalore,DD332102,True,True,2009-01-01T18:49:06.800481
+GOV0107,preeti.jain@gov.in,Preeti,Jain,+91 9541391301,Finance,Group B,Central Services,Under Secretary,Delhi,DD284192,False,False,2017-10-13T18:49:06.800484
+GOV0108,abhinav.joshi@gov.in,Abhinav,Joshi,+91 9434092758,Education,Group A,IPS,Deputy Secretary,Mumbai,DD385662,True,False,2016-12-22T18:49:06.800488
+GOV0109,siddharth.sharma@rediffmail.com,Siddharth,Sharma,+91 9180236478,Education,Group D,Central Services,Joint Secretary,Delhi,DD371550,True,True,2018-02-12T18:49:06.800491
+GOV0110,aakash.bansal@hotmail.com,Aakash,Bansal,+91 9812248983,Home Affairs,Group B,Central Services,Additional Secretary,Hyderabad,DD114667,True,False,2021-07-01T18:49:06.800494
+GOV0111,arjun.kapoor@gmail.com,Arjun,Kapoor,+91 9967801496,Finance,Group A,Central Services,Under Secretary,Kolkata,DD182376,False,True,2016-03-19T18:49:06.800497
+GOV0112,divya.gandhi@rediffmail.com,Divya,Gandhi,+91 9787977597,Rural Development,Group C,IAS,Joint Secretary,Hyderabad,DD553504,True,True,2016-12-01T18:49:06.800500
+GOV0113,riya.shah@outlook.com,Riya,Shah,+91 9278435227,Rural Development,Group A,IPS,Director,Mumbai,DD979241,True,True,2020-02-17T18:49:06.800504
+GOV0114,varun.reddy@gov.in,Varun,Reddy,+91 9436601184,Education,Group D,Central Services,Deputy Secretary,Delhi,DD839355,True,True,2016-05-26T18:49:06.800507
+GOV0115,rohan.shah@gmail.com,Rohan,Shah,+91 9140184765,Health,Group B,Central Services,Additional Secretary,Mumbai,DD884250,True,True,2024-01-27T18:49:06.800510
+GOV0116,simran.gupta@outlook.com,Simran,Gupta,+91 9714149224,Rural Development,Group B,Central Services,Under Secretary,Kolkata,DD151729,True,True,2025-01-19T18:49:06.800513
+GOV0117,akshat.pillai@yahoo.in,Akshat,Pillai,+91 9641170678,Home Affairs,Group A,Central Services,Under Secretary,Mumbai,DD585739,True,False,2012-10-22T18:49:06.800516
+GOV0118,gaurav.desai@gov.in,Gaurav,Desai,+91 9650619532,Education,Group C,IAS,Under Secretary,Hyderabad,DD308583,True,True,2011-08-09T18:49:06.800519
+GOV0119,priya.sethi@gov.in,Priya,Sethi,+91 9996320976,IT & Electronics,Group A,Central Services,Deputy Secretary,Hyderabad,DD920241,False,False,2014-10-17T18:49:06.800522
+GOV0120,vikram.malhotra@rediffmail.com,Vikram,Malhotra,+91 9050209048,Education,Group A,Central Services,Director,Kolkata,DD341480,True,True,2010-02-20T18:49:06.800525

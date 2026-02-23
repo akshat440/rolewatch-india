@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-02-19T18:49:07.112866",
+  "total_users": 650,
+  "total_logs": 33000,
+  "industries": [
+    "indian_bank",
+    "indian_hospital",
+    "indian_police",
+    "indian_government",
+    "indian_college"
+  ],
+  "country": "India",
+  "compliance": [
+    "DPDP Act 2023",
+    "RBI Guidelines",
+    "MEITY Standards",
+    "UGC Norms",
+    "IPC/CrPC"
+  ]
+}
