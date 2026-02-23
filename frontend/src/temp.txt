@@ -1,0 +1,2 @@
+import BiometricSetup from './pages/BiometricSetup';
+<Route path='/biometric' element={isAuthenticated() ? <BiometricSetup /> : <Navigate to='/' />} />
