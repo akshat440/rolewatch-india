@@ -22,6 +22,16 @@
 
 <br/>
 
+### 👥 Team
+
+| Role | Name |
+|---|---|
+| 👑 **Team Leader** | Anushka Pareek |
+| 💻 **Developer** | Akshat Singh Tomar |
+| 🎨 **Developer** | Vidhi Luniya |
+
+<br/>
+
 > *"Imagine a hospital where a junior nurse accidentally accessed a patient's HIV status. Or a bank where a clerk viewed confidential loan applications. These aren't hypothetical — they happen every day. **RoleWatch India makes this impossible.***
 
 <br/>
